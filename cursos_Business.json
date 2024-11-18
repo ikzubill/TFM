@@ -1,0 +1,990 @@
+{
+    "count": 10000,
+    "next": "https://www.udemy.com/api-2.0/courses/?category=Business&page=2&page_size=10",
+    "previous": null,
+    "results": [
+        {
+            "_class": "course",
+            "id": 2507614,
+            "title": "Curso: Aprender como hacer gráficos en Excel y Power BI",
+            "url": "/course/curso-gratis-tutorial-microsoft-excel-power-bi-aprender-hacer-graficos/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "gmsPQy7iQdCPK5q_J2inhw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 22313124,
+                    "title": "Javier Gomez",
+                    "name": "Javier",
+                    "display_name": "Javier Gomez",
+                    "job_title": "MBA, MOS®, MCP®, CAPM®, Data Analyst",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/22313124_a5bd.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/22313124_a5bd.jpg",
+                    "initials": "JG",
+                    "url": "/user/egpjavier/"
+                },
+                {
+                    "_class": "user",
+                    "id": 72390038,
+                    "title": "datdata – Cursos",
+                    "name": "datdata –",
+                    "display_name": "datdata – Cursos",
+                    "job_title": "Aprende Power BI y Análisis de datos",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/72390038_aefc_3.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/72390038_aefc_3.jpg",
+                    "initials": "DC",
+                    "url": "/user/datdata/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/2507614_91c7_2.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/2507614_91c7_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/2507614_91c7_2.jpg",
+            "published_title": "curso-gratis-tutorial-microsoft-excel-power-bi-aprender-hacer-graficos",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Curso gratis Excel y Power BI (2019) Tutorial con prácticas para crear reportes y gráficos en Microsoft Power BI y Excel",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 2615250,
+            "title": "Microsoft Power BI - Tutorial de Introducción a Power BI",
+            "url": "/course/tutorial-power-bi/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "0kY6APOJRIqa5yQQBphu-Q",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 22313124,
+                    "title": "Javier Gomez",
+                    "name": "Javier",
+                    "display_name": "Javier Gomez",
+                    "job_title": "MBA, MOS®, MCP®, CAPM®, Data Analyst",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/22313124_a5bd.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/22313124_a5bd.jpg",
+                    "initials": "JG",
+                    "url": "/user/egpjavier/"
+                },
+                {
+                    "_class": "user",
+                    "id": 72390038,
+                    "title": "datdata – Cursos",
+                    "name": "datdata –",
+                    "display_name": "datdata – Cursos",
+                    "job_title": "Aprende Power BI y Análisis de datos",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/72390038_aefc_3.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/72390038_aefc_3.jpg",
+                    "initials": "DC",
+                    "url": "/user/datdata/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/2615250_9bb4_2.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/2615250_9bb4_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/2615250_9bb4_2.jpg",
+            "published_title": "tutorial-power-bi",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_MX",
+                "title": "Español (México)",
+                "english_title": "Spanish (Mexico)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Curso de Power BI nivel básico - Crea tu primer dashboard con Microsoft Power BI - ¡Power BI Desktop es gratis!",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 2786834,
+            "title": "Microsoft Power BI - Curso de DAX en Power BI Desktop",
+            "url": "/course/dax-power-bi/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "8nqisddeQNSyV6RXTEQ-VA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 22313124,
+                    "title": "Javier Gomez",
+                    "name": "Javier",
+                    "display_name": "Javier Gomez",
+                    "job_title": "MBA, MOS®, MCP®, CAPM®, Data Analyst",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/22313124_a5bd.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/22313124_a5bd.jpg",
+                    "initials": "JG",
+                    "url": "/user/egpjavier/"
+                },
+                {
+                    "_class": "user",
+                    "id": 72390038,
+                    "title": "datdata – Cursos",
+                    "name": "datdata –",
+                    "display_name": "datdata – Cursos",
+                    "job_title": "Aprende Power BI y Análisis de datos",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/72390038_aefc_3.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/72390038_aefc_3.jpg",
+                    "initials": "DC",
+                    "url": "/user/datdata/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/2786834_7ad8.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/2786834_7ad8.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/2786834_7ad8.jpg",
+            "published_title": "dax-power-bi",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_MX",
+                "title": "Español (México)",
+                "english_title": "Spanish (Mexico)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Fundamentos de DAX en Power BI - Formación para principiantes en Microsoft Power BI",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 3543714,
+            "title": "Curso Power BI - Crea un Dashboard desde cero",
+            "url": "/course/curso-power-bi-gratis-crea-un-dashboard-desde-cero/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "zJQUsnqMRoiuMYt4EJFJog",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 100555930,
+                    "title": "Daniel Lledó Martínez",
+                    "name": "Daniel",
+                    "display_name": "Daniel Lledó Martínez",
+                    "job_title": "Business Intelligence Analyst",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/100555930_c445.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/100555930_c445.jpg",
+                    "initials": "DL",
+                    "url": "/user/daniel-lledo-martinez/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/3543714_56e8_2.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/3543714_56e8_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/3543714_56e8_2.jpg",
+            "published_title": "curso-power-bi-gratis-crea-un-dashboard-desde-cero",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Curso de Power BI gratis para crear un dashboard paso a paso utilizando Power Query, Dax, modelado de datos y gráficos",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 6125927,
+            "title": "Domina Power BI: 10 Proyectos Prácticos para Visualización",
+            "url": "/course/curso-power-bi-con-proyectos-en-espanol/",
+            "is_paid": true,
+            "price": "34,99 €",
+            "price_detail": {
+                "amount": 34.99,
+                "currency": "EUR",
+                "price_string": "34,99 €",
+                "currency_symbol": "€"
+            },
+            "price_serve_tracking_id": "Z-8fQnu_TH6Vwfr-0r7Cpw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 132029120,
+                    "title": "Pianalytix • 75,000+ Students Worldwide",
+                    "name": "Pianalytix •",
+                    "display_name": "Pianalytix • 75,000+ Students Worldwide",
+                    "job_title": "Projects in Data Science, Machine Learning, Power BI, & More",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/132029120_7604.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/132029120_7604.jpg",
+                    "initials": "P7",
+                    "url": "/user/pianalytix/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/6125927_d4b8.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/6125927_d4b8.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/6125927_d4b8.jpg",
+            "published_title": "curso-power-bi-con-proyectos-en-espanol",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_MX",
+                "title": "Español (México)",
+                "english_title": "Spanish (Mexico)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Domina Power BI con 10 Proyectos Prácticos para Visualización de Datos, DAX y Business Intelligence",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 97280,
+            "title": "Metodología de la Investigación y Proyectos",
+            "url": "/course/metodologiadelainvestigacion/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "zU0NgKdFR6-ODWoPotGkoA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 534585,
+                    "title": "Luis Medina Gual",
+                    "name": "Luis",
+                    "display_name": "Luis Medina Gual",
+                    "job_title": "Apasionado de la investigación y la educación",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/534585_565a_4.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/534585_565a_4.jpg",
+                    "initials": "LM",
+                    "url": "/user/luismedinagual/"
+                },
+                {
+                    "_class": "user",
+                    "id": 1846714,
+                    "title": "MariCarmen González-Videgaray",
+                    "name": "MariCarmen",
+                    "display_name": "MariCarmen González-Videgaray",
+                    "job_title": "",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/1846714_5042_2.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/1846714_5042_2.jpg",
+                    "initials": "MG",
+                    "url": "/user/maricarmengonzlezvidegaray/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/97280_393e_6.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/97280_393e_6.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/97280_393e_6.jpg",
+            "published_title": "metodologiadelainvestigacion",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Abre las maravillosas puertas del conocimiento y la investigación al estudiante universitario y preuniversitario.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 5659818,
+            "title": "Introducción a ChatGPT 4 para Funciones DAX en Power BI",
+            "url": "/course/curso-ia-generativa-funciones-dax-en-power-bi-y-chatgpt/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "BNZocY-8T_eID0yFYCXcHQ",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 81115304,
+                    "title": "DataBoosters Academy",
+                    "name": "DataBoosters",
+                    "display_name": "DataBoosters Academy",
+                    "job_title": "Potencializa tu carrera profesional",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/81115304_4d61_15.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/81115304_4d61_15.jpg",
+                    "initials": "DA",
+                    "url": "/user/databoostersacademy/"
+                },
+                {
+                    "_class": "user",
+                    "id": 181058708,
+                    "title": "Juan Carlos Hernandez Ramirez",
+                    "name": "Juan Carlos",
+                    "display_name": "Juan Carlos Hernandez Ramirez",
+                    "job_title": "Experto en Analítica y BI",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/181058708_c6b9.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/181058708_c6b9.jpg",
+                    "initials": "JH",
+                    "url": "/user/juan-carlos-hernandez-ramirez-4/"
+                },
+                {
+                    "_class": "user",
+                    "id": 4084858,
+                    "title": "Raul Montesinos",
+                    "name": "Raul",
+                    "display_name": "Raul Montesinos",
+                    "job_title": "Fundador Databoosters | Data Analytics",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/4084858_495f_11.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/4084858_495f_11.jpg",
+                    "initials": "RM",
+                    "url": "/user/ralmontesinos/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/5659818_36a3_5.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/5659818_36a3_5.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/5659818_36a3_5.jpg",
+            "published_title": "curso-ia-generativa-funciones-dax-en-power-bi-y-chatgpt",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Domina la IA Generativa con ChatGPT 4: Casos de uso en Análisis de datos",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 6118499,
+            "title": "Como iniciar un Podcast Desde 0 - Tu primer podcast pasopaso",
+            "url": "/course/como-iniciar-un-podcast-desde-cero-tu-primer-podcast-pasopaso/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "J5N7Gv7mR0aetDl8USEvhg",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 143260442,
+                    "title": "Braian Florentin",
+                    "name": "Braian",
+                    "display_name": "Braian Florentin",
+                    "job_title": "GANA DINERO TRABAJANDO REMOTO, SETTER, SDR Y CLOSER DE VENTA",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/143260442_116e.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/143260442_116e.jpg",
+                    "initials": "BF",
+                    "url": "/user/braian-florentin/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/6118499_146a_3.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/6118499_146a_3.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/6118499_146a_3.jpg",
+            "published_title": "como-iniciar-un-podcast-desde-cero-tu-primer-podcast-pasopaso",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Inicia tu primer podcast o mejora el que ya tienes con nuestro curso paso a paso.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 3045886,
+            "title": "Crea tu Plan de Marca Personal",
+            "url": "/course/como-crear-tu-plan-de-marca-personal/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "V7NFaU-lS7ilhQF6pJMnyQ",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 99877810,
+                    "title": "Luis Prado",
+                    "name": "Luis",
+                    "display_name": "Luis Prado",
+                    "job_title": "Consultor de Marca Personal y LinkedIn | Asesor Profesional",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/99877810_2d24_5.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/99877810_2d24_5.jpg",
+                    "initials": "LP",
+                    "url": "/user/luis-prado-26/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/3045886_d4fb.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/3045886_d4fb.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/3045886_d4fb.jpg",
+            "published_title": "como-crear-tu-plan-de-marca-personal",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Si las personas te conocen y confían en ti, te comprarán y ayudarán a conseguir oportunidades de negocio!!",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 4368490,
+            "title": "Curso Básico de Microsoft Excel  - Funciones, Atajos y Mas",
+            "url": "/course/curso-basico-de-microsoft-excel-funciones-atajos-y-mas/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "jeQ3YHcVQuuvdJuaZH08DQ",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 145988932,
+                    "title": "Jacobo Licon",
+                    "name": "Jacobo",
+                    "display_name": "Jacobo Licon",
+                    "job_title": "Ing Industrial, Master en Ingenieria Financiera",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/145988932_0f56.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/145988932_0f56.jpg",
+                    "initials": "JL",
+                    "url": "/user/jacobo-licon/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/4368490_677e_9.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/4368490_677e_9.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/4368490_677e_9.jpg",
+            "published_title": "curso-basico-de-microsoft-excel-funciones-atajos-y-mas",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende a usar las funciones esenciales de Excel, Graficas, Tablas dinámicas y formatos condicionales",
+            "instructor_name": null
+        }
+    ],
+    "aggregations": [
+        {
+            "title": "Precio",
+            "key": "price",
+            "options": [
+                {
+                    "title": "De pago",
+                    "count": 10000,
+                    "key": "price",
+                    "value": "price-paid"
+                },
+                {
+                    "title": "Gratis",
+                    "count": 3206,
+                    "key": "price",
+                    "value": "price-free"
+                }
+            ]
+        },
+        {
+            "title": "Nivel",
+            "key": "instructional_level",
+            "options": [
+                {
+                    "title": "Todos los niveles",
+                    "count": 10000,
+                    "key": "instructional_level",
+                    "value": "all"
+                },
+                {
+                    "title": "Principiante",
+                    "count": 10000,
+                    "key": "instructional_level",
+                    "value": "beginner"
+                },
+                {
+                    "title": "Intermedio",
+                    "count": 3696,
+                    "key": "instructional_level",
+                    "value": "intermediate"
+                },
+                {
+                    "title": "Experto",
+                    "count": 690,
+                    "key": "instructional_level",
+                    "value": "expert"
+                }
+            ]
+        },
+        {
+            "title": "Características",
+            "key": "features",
+            "options": [
+                {
+                    "title": "Subtítulos",
+                    "count": 10000,
+                    "key": "features",
+                    "value": "has_closed_caption"
+                },
+                {
+                    "title": "Cuestionarios",
+                    "count": 7979,
+                    "key": "features",
+                    "value": "has_simple_quiz"
+                },
+                {
+                    "title": "Ejercicios de codificación",
+                    "count": 62,
+                    "key": "features",
+                    "value": "has_coding_exercises"
+                },
+                {
+                    "title": "Exámenes de prueba",
+                    "count": 2730,
+                    "key": "features",
+                    "value": "has_practice_test"
+                }
+            ]
+        },
+        {
+            "title": "Idioma",
+            "key": "language",
+            "options": [
+                {
+                    "title": "English",
+                    "count": 10000,
+                    "key": "lang",
+                    "value": "en"
+                },
+                {
+                    "title": "Português",
+                    "count": 2654,
+                    "key": "lang",
+                    "value": "pt"
+                },
+                {
+                    "title": "Español",
+                    "count": 2276,
+                    "key": "lang",
+                    "value": "es"
+                },
+                {
+                    "title": "日本語",
+                    "count": 1711,
+                    "key": "lang",
+                    "value": "ja"
+                },
+                {
+                    "title": "Deutsch",
+                    "count": 1096,
+                    "key": "lang",
+                    "value": "de"
+                },
+                {
+                    "title": "العربية",
+                    "count": 1085,
+                    "key": "lang",
+                    "value": "ar"
+                },
+                {
+                    "title": "Français",
+                    "count": 922,
+                    "key": "lang",
+                    "value": "fr"
+                },
+                {
+                    "title": "中文",
+                    "count": 746,
+                    "key": "lang",
+                    "value": "zh"
+                },
+                {
+                    "title": "Türkçe",
+                    "count": 627,
+                    "key": "lang",
+                    "value": "tr"
+                },
+                {
+                    "title": "Italiano",
+                    "count": 446,
+                    "key": "lang",
+                    "value": "it"
+                },
+                {
+                    "title": "한국어",
+                    "count": 416,
+                    "key": "lang",
+                    "value": "ko"
+                },
+                {
+                    "title": "Indonesia",
+                    "count": 373,
+                    "key": "lang",
+                    "value": "id"
+                },
+                {
+                    "title": "Русский",
+                    "count": 245,
+                    "key": "lang",
+                    "value": "ru"
+                },
+                {
+                    "title": "Tiếng Việt",
+                    "count": 168,
+                    "key": "lang",
+                    "value": "vi"
+                },
+                {
+                    "title": "Polski",
+                    "count": 162,
+                    "key": "lang",
+                    "value": "pl"
+                },
+                {
+                    "title": "हिन्दी",
+                    "count": 155,
+                    "key": "lang",
+                    "value": "hi"
+                },
+                {
+                    "title": "اردو",
+                    "count": 97,
+                    "key": "lang",
+                    "value": "ur"
+                },
+                {
+                    "title": "Română",
+                    "count": 42,
+                    "key": "lang",
+                    "value": "ro"
+                },
+                {
+                    "title": "ไทย",
+                    "count": 35,
+                    "key": "lang",
+                    "value": "th"
+                },
+                {
+                    "title": "Nederlands",
+                    "count": 25,
+                    "key": "lang",
+                    "value": "nl"
+                },
+                {
+                    "title": "Magyar",
+                    "count": 17,
+                    "key": "lang",
+                    "value": "hu"
+                },
+                {
+                    "title": "Українська",
+                    "count": 16,
+                    "key": "lang",
+                    "value": "uk"
+                },
+                {
+                    "title": "עברית",
+                    "count": 15,
+                    "key": "lang",
+                    "value": "he"
+                },
+                {
+                    "title": "বাংলা",
+                    "count": 12,
+                    "key": "lang",
+                    "value": "bn"
+                },
+                {
+                    "title": "தமிழ்",
+                    "count": 8,
+                    "key": "lang",
+                    "value": "ta"
+                },
+                {
+                    "title": "Ελληνικά",
+                    "count": 7,
+                    "key": "lang",
+                    "value": "el"
+                },
+                {
+                    "title": "ქართული",
+                    "count": 6,
+                    "key": "lang",
+                    "value": "ka"
+                },
+                {
+                    "title": "Azərbaycan",
+                    "count": 5,
+                    "key": "lang",
+                    "value": "az"
+                },
+                {
+                    "title": "Српски",
+                    "count": 5,
+                    "key": "lang",
+                    "value": "sr"
+                },
+                {
+                    "title": "فارسی",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "fa"
+                },
+                {
+                    "title": "മലയാളം",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "ml"
+                },
+                {
+                    "title": "Norsk bokmål",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "nb"
+                },
+                {
+                    "title": "Soomaali",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "so"
+                },
+                {
+                    "title": "Tagalog",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "tl"
+                },
+                {
+                    "title": "Български",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "bg"
+                },
+                {
+                    "title": "Hrvatski",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "hr"
+                },
+                {
+                    "title": "मराठी",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "mr"
+                },
+                {
+                    "title": "Čeština",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "cs"
+                },
+                {
+                    "title": "Dansk",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "da"
+                },
+                {
+                    "title": "Eesti",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "et"
+                },
+                {
+                    "title": "Suomi",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "fi"
+                },
+                {
+                    "title": "Frysk",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "fy"
+                },
+                {
+                    "title": "ಕನ್ನಡ",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "kn"
+                },
+                {
+                    "title": "Kurdî",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ku"
+                },
+                {
+                    "title": "Melayu",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ms"
+                },
+                {
+                    "title": "नेपाली",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ne"
+                },
+                {
+                    "title": "ਪੰਜਾਬੀ",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "pa"
+                },
+                {
+                    "title": "Svenska",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "sv"
+                },
+                {
+                    "title": "Тоҷикӣ",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "tg"
+                }
+            ]
+        },
+        {
+            "title": "Valoraciones",
+            "key": "ratings",
+            "options": [
+                {
+                    "title": "4,5 o más",
+                    "count": 10000,
+                    "key": "ratings",
+                    "value": "4.5"
+                },
+                {
+                    "title": "4,0 o más",
+                    "count": 10000,
+                    "key": "ratings",
+                    "value": "4.0"
+                },
+                {
+                    "title": "3,5 o más",
+                    "count": 10000,
+                    "key": "ratings",
+                    "value": "3.5"
+                },
+                {
+                    "title": "3,0 o más",
+                    "count": 10000,
+                    "key": "ratings",
+                    "value": "3.0"
+                }
+            ]
+        },
+        {
+            "title": "Duración del vídeo",
+            "key": "duration",
+            "options": [
+                {
+                    "title": "0-1 hora",
+                    "count": 7333,
+                    "key": "duration",
+                    "value": "extraShort"
+                },
+                {
+                    "title": "1-3 horas",
+                    "count": 10000,
+                    "key": "duration",
+                    "value": "short"
+                },
+                {
+                    "title": "Entre 3 y 6 horas",
+                    "count": 6298,
+                    "key": "duration",
+                    "value": "medium"
+                },
+                {
+                    "title": "6-17 horas",
+                    "count": 3436,
+                    "key": "duration",
+                    "value": "long"
+                },
+                {
+                    "title": "17 horas o más",
+                    "count": 761,
+                    "key": "duration",
+                    "value": "extraLong"
+                }
+            ]
+        }
+    ]
+}

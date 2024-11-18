@@ -1,0 +1,883 @@
+{
+    "count": 10000,
+    "next": "https://www.udemy.com/api-2.0/courses/?category=Lifestyle&page=2&page_size=10",
+    "previous": null,
+    "results": [
+        {
+            "_class": "course",
+            "id": 5011420,
+            "title": "Introducción al Reiki Tradicional del sistema del Dr. Usui",
+            "url": "/course/introduccion-al-reiki-tradicional-del-sistema-del-dr-usui/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "0qPyQwUSQX6fvV-NbofGaw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 13191030,
+                    "title": "Dra. Isis Estrada",
+                    "name": "Dra. Isis",
+                    "display_name": "Dra. Isis Estrada",
+                    "job_title": "Terapeuta alternativa, autora de libros e instructora.",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/13191030_ca93_12.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/13191030_ca93_12.jpg",
+                    "initials": "DE",
+                    "url": "/user/isisestradaquintero/"
+                },
+                {
+                    "_class": "user",
+                    "id": 259708230,
+                    "title": "Centro de Terapias Alternativas Sendero Místico",
+                    "name": "Centro de Terapias Alternativas",
+                    "display_name": "Centro de Terapias Alternativas Sendero Místico",
+                    "job_title": "Instructor de cursos en Udemy",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/259708230_e022_3.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/259708230_e022_3.jpg",
+                    "initials": "CS",
+                    "url": "/user/centro-de-terapias-alternativas-sendero-mistico/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/5011420_bb8e_4.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/5011420_bb8e_4.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/5011420_bb8e_4.jpg",
+            "published_title": "introduccion-al-reiki-tradicional-del-sistema-del-dr-usui",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_MX",
+                "title": "Español (México)",
+                "english_title": "Spanish (Mexico)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Curso (en español) acreditado por The International Guild of Complementary Therapists (IGCT), de Inglaterra.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 5529738,
+            "title": "Curso introductorio al curso de Tarot Evolutivo/terapéutico",
+            "url": "/course/curso-introductorio-al-curso-de-tarot-evolutivoterapeutico/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "XU-z6EgyTAKMYbt0wLzgnw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 157454332,
+                    "title": "Maestra y Terapeuta Kay Instituto Internacional de Terapeutas Integrales",
+                    "name": "Maestra y Terapeuta Kay",
+                    "display_name": "Maestra y Terapeuta Kay Instituto Internacional de Terapeutas Integrales",
+                    "job_title": "Terapeuta Holística Integrativa",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/157454332_a452_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/157454332_a452_2.jpg",
+                    "initials": "MI",
+                    "url": "/user/instituto-iti/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/5529738_61ac_2.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/5529738_61ac_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/5529738_61ac_2.jpg",
+            "published_title": "curso-introductorio-al-curso-de-tarot-evolutivoterapeutico",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Si realmente quieres ser un Tarotista Evolutivo/terapéutico/cuántico avanza en esta intro.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 5075780,
+            "title": "Ejercicios Pleyadianos",
+            "url": "/course/ejercicios-pleyadianos/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "_pqddjzZQiOX4kuZc51E7A",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 131922576,
+                    "title": "Tatiana Romero",
+                    "name": "Tatiana",
+                    "display_name": "Tatiana Romero",
+                    "job_title": "Mensajera, Canalizadora, Coach Espiritual y Transpersonal",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/131922576_0a94_2.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/131922576_0a94_2.jpg",
+                    "initials": "TR",
+                    "url": "/user/tatiana-romero-17/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/5075780_d18f_2.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/5075780_d18f_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/5075780_d18f_2.jpg",
+            "published_title": "ejercicios-pleyadianos",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Elevación de la Frecuencia Humana",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 3124010,
+            "title": "curso de automaquillaje para principiantes",
+            "url": "/course/curso-de-automaquillaje-para-principiantes/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "NQ1SNVTcScu2e8FuSLbt8Q",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 117951840,
+                    "title": "Ediliz Silva Maquillaje",
+                    "name": "Ediliz Silva",
+                    "display_name": "Ediliz Silva Maquillaje",
+                    "job_title": "cosmetologa y maquillista profesional",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/117951840_e9c5_2.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/117951840_e9c5_2.jpg",
+                    "initials": "EM",
+                    "url": "/user/ediliz-silva-maquillaje/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/3124010_29c2_3.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/3124010_29c2_3.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/3124010_29c2_3.jpg",
+            "published_title": "curso-de-automaquillaje-para-principiantes",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_MX",
+                "title": "Español (México)",
+                "english_title": "Spanish (Mexico)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "maquillaje para principiantes",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 5028210,
+            "title": "Tarot Marsella Lemat gratuito",
+            "url": "/course/tarot-marsella-lemat-gratuito/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "LstPsDt1QU2DX5SDjRIlpg",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 214169910,
+                    "title": "Daniel Rodes Encarna Sanchez",
+                    "name": "Daniel Rodes",
+                    "display_name": "Daniel Rodes Encarna Sanchez",
+                    "job_title": "Fundadores y directores de la escuela  internacional Lemat",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/214169910_e22b_4.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/214169910_e22b_4.jpg",
+                    "initials": "DE",
+                    "url": "/user/daniel-rodes-pascal/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/5028210_58be_2.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/5028210_58be_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/5028210_58be_2.jpg",
+            "published_title": "tarot-marsella-lemat-gratuito",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "22 arcanos y 4 ases. por Daniel Rodes y Encarna Sanchez de la escuela internacional Lemat.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 3220547,
+            "title": "Aprende a Leer las Cartas del Tarot",
+            "url": "/course/aprende-a-leer-las-cartas-del-tarot/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "pFk2tv3ISKeJygK6hMgiFw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 122009059,
+                    "title": "Sandra Guzmán",
+                    "name": "Sandra",
+                    "display_name": "Sandra Guzmán",
+                    "job_title": "Tarotista",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/122009059_6999.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/122009059_6999.jpg",
+                    "initials": "SG",
+                    "url": "/user/sandra-guzman-23/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/3220547_dc8a_2.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/3220547_dc8a_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/3220547_dc8a_2.jpg",
+            "published_title": "aprende-a-leer-las-cartas-del-tarot",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Cómo echar las cartas del tarot e interpretarlas",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 2277345,
+            "title": "Escritura creativa desde cero.",
+            "url": "/course/quiero-escribir-y-no-se/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "TXeysnmxQZ2jBc8jo9B_ag",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 11540236,
+                    "title": "Pablo Giordano",
+                    "name": "Pablo",
+                    "display_name": "Pablo Giordano",
+                    "job_title": "Escritor.",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/11540236_cd0b_3.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/11540236_cd0b_3.jpg",
+                    "initials": "PG",
+                    "url": "/user/pablogiordano2/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/2277345_d11a.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/2277345_d11a.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/2277345_d11a.jpg",
+            "published_title": "quiero-escribir-y-no-se",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Herramientas básicas para comenzar a escribir literatura de ficción. Poesía, cuento y novela. Corrección de estilo.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 4787536,
+            "title": "Iniciación a los amigurumis",
+            "url": "/course/iniciacion-a-los-amigurumis/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "bF_vXS-aSom9Soa7r2W0VA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 202319518,
+                    "title": "David Fernández Gutiérrez",
+                    "name": "David Fernández",
+                    "display_name": "David Fernández Gutiérrez",
+                    "job_title": "Cromigurumis",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/202319518_d4b7.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/202319518_d4b7.jpg",
+                    "initials": "DG",
+                    "url": "/user/david-fernandez-gutierrez-6/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/4787536_a88c.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/4787536_a88c.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/4787536_a88c.jpg",
+            "published_title": "iniciacion-a-los-amigurumis",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende a tejer tu mundo",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 2315070,
+            "title": "Escritura creativa - Problemas frecuentes y estilo.",
+            "url": "/course/escritura-creativa2/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "yJich9tAR3K8i6pYeLLn1w",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 11540236,
+                    "title": "Pablo Giordano",
+                    "name": "Pablo",
+                    "display_name": "Pablo Giordano",
+                    "job_title": "Escritor.",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/11540236_cd0b_3.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/11540236_cd0b_3.jpg",
+                    "initials": "PG",
+                    "url": "/user/pablogiordano2/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/2315070_2d2d_2.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/2315070_2d2d_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/2315070_2d2d_2.jpg",
+            "published_title": "escritura-creativa2",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Herramientas para la corrección y enriquecimiento del texto.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 5054410,
+            "title": "Universo Sopas",
+            "url": "/course/universo-sopas/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "6DI6IM2cRNGCY1T_nf5bPw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 66707966,
+                    "title": "Botania Studio",
+                    "name": "Botania",
+                    "display_name": "Botania Studio",
+                    "job_title": "Hacedores Audiovisuales Gastronómicos",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/66707966_2e04_6.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/66707966_2e04_6.jpg",
+                    "initials": "BS",
+                    "url": "/user/diego-de-benedetti/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/5054410_89b3.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/5054410_89b3.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/5054410_89b3.jpg",
+            "published_title": "universo-sopas",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Un Curso entero dedicado al mundo apasionante e infinito de la Sopa. Aprende todo sobre el mundo de las Sopas!",
+            "instructor_name": null
+        }
+    ],
+    "aggregations": [
+        {
+            "title": "Precio",
+            "key": "price",
+            "options": [
+                {
+                    "title": "De pago",
+                    "count": 10000,
+                    "key": "price",
+                    "value": "price-paid"
+                },
+                {
+                    "title": "Gratis",
+                    "count": 859,
+                    "key": "price",
+                    "value": "price-free"
+                }
+            ]
+        },
+        {
+            "title": "Nivel",
+            "key": "instructional_level",
+            "options": [
+                {
+                    "title": "Todos los niveles",
+                    "count": 5695,
+                    "key": "instructional_level",
+                    "value": "all"
+                },
+                {
+                    "title": "Principiante",
+                    "count": 4809,
+                    "key": "instructional_level",
+                    "value": "beginner"
+                },
+                {
+                    "title": "Intermedio",
+                    "count": 1163,
+                    "key": "instructional_level",
+                    "value": "intermediate"
+                },
+                {
+                    "title": "Experto",
+                    "count": 269,
+                    "key": "instructional_level",
+                    "value": "expert"
+                }
+            ]
+        },
+        {
+            "title": "Características",
+            "key": "features",
+            "options": [
+                {
+                    "title": "Subtítulos",
+                    "count": 7705,
+                    "key": "features",
+                    "value": "has_closed_caption"
+                },
+                {
+                    "title": "Cuestionarios",
+                    "count": 1683,
+                    "key": "features",
+                    "value": "has_simple_quiz"
+                },
+                {
+                    "title": "Ejercicios de codificación",
+                    "count": 0,
+                    "key": "features",
+                    "value": "has_coding_exercises"
+                },
+                {
+                    "title": "Exámenes de prueba",
+                    "count": 163,
+                    "key": "features",
+                    "value": "has_practice_test"
+                }
+            ]
+        },
+        {
+            "title": "Idioma",
+            "key": "language",
+            "options": [
+                {
+                    "title": "English",
+                    "count": 7647,
+                    "key": "lang",
+                    "value": "en"
+                },
+                {
+                    "title": "Español",
+                    "count": 1006,
+                    "key": "lang",
+                    "value": "es"
+                },
+                {
+                    "title": "Português",
+                    "count": 978,
+                    "key": "lang",
+                    "value": "pt"
+                },
+                {
+                    "title": "Deutsch",
+                    "count": 377,
+                    "key": "lang",
+                    "value": "de"
+                },
+                {
+                    "title": "Italiano",
+                    "count": 362,
+                    "key": "lang",
+                    "value": "it"
+                },
+                {
+                    "title": "日本語",
+                    "count": 311,
+                    "key": "lang",
+                    "value": "ja"
+                },
+                {
+                    "title": "Türkçe",
+                    "count": 248,
+                    "key": "lang",
+                    "value": "tr"
+                },
+                {
+                    "title": "Русский",
+                    "count": 206,
+                    "key": "lang",
+                    "value": "ru"
+                },
+                {
+                    "title": "中文",
+                    "count": 148,
+                    "key": "lang",
+                    "value": "zh"
+                },
+                {
+                    "title": "Français",
+                    "count": 146,
+                    "key": "lang",
+                    "value": "fr"
+                },
+                {
+                    "title": "العربية",
+                    "count": 134,
+                    "key": "lang",
+                    "value": "ar"
+                },
+                {
+                    "title": "हिन्दी",
+                    "count": 100,
+                    "key": "lang",
+                    "value": "hi"
+                },
+                {
+                    "title": "Indonesia",
+                    "count": 49,
+                    "key": "lang",
+                    "value": "id"
+                },
+                {
+                    "title": "Polski",
+                    "count": 38,
+                    "key": "lang",
+                    "value": "pl"
+                },
+                {
+                    "title": "한국어",
+                    "count": 31,
+                    "key": "lang",
+                    "value": "ko"
+                },
+                {
+                    "title": "Română",
+                    "count": 21,
+                    "key": "lang",
+                    "value": "ro"
+                },
+                {
+                    "title": "اردو",
+                    "count": 20,
+                    "key": "lang",
+                    "value": "ur"
+                },
+                {
+                    "title": "ไทย",
+                    "count": 19,
+                    "key": "lang",
+                    "value": "th"
+                },
+                {
+                    "title": "עברית",
+                    "count": 17,
+                    "key": "lang",
+                    "value": "he"
+                },
+                {
+                    "title": "Nederlands",
+                    "count": 15,
+                    "key": "lang",
+                    "value": "nl"
+                },
+                {
+                    "title": "Tiếng Việt",
+                    "count": 10,
+                    "key": "lang",
+                    "value": "vi"
+                },
+                {
+                    "title": "Українська",
+                    "count": 7,
+                    "key": "lang",
+                    "value": "uk"
+                },
+                {
+                    "title": "தமிழ்",
+                    "count": 6,
+                    "key": "lang",
+                    "value": "ta"
+                },
+                {
+                    "title": "Čeština",
+                    "count": 5,
+                    "key": "lang",
+                    "value": "cs"
+                },
+                {
+                    "title": "Български",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "bg"
+                },
+                {
+                    "title": "Ελληνικά",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "el"
+                },
+                {
+                    "title": "Hrvatski",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "hr"
+                },
+                {
+                    "title": "Magyar",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "hu"
+                },
+                {
+                    "title": "Latviešu",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "lv"
+                },
+                {
+                    "title": "मराठी",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "mr"
+                },
+                {
+                    "title": "Guarani",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "gn"
+                },
+                {
+                    "title": "Afrikaans",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "af"
+                },
+                {
+                    "title": "Eesti",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "et"
+                },
+                {
+                    "title": "Қазақ тілі",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "kk"
+                },
+                {
+                    "title": "മലയാളം",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ml"
+                },
+                {
+                    "title": "Melayu",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ms"
+                },
+                {
+                    "title": "မြန်မာ",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "my"
+                },
+                {
+                    "title": "Norsk bokmål",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "nb"
+                },
+                {
+                    "title": "Soomaali",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "so"
+                },
+                {
+                    "title": "Српски",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "sr"
+                },
+                {
+                    "title": "Svenska",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "sv"
+                },
+                {
+                    "title": "తెలుగు",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "te"
+                }
+            ]
+        },
+        {
+            "title": "Valoraciones",
+            "key": "ratings",
+            "options": [
+                {
+                    "title": "4,5 o más",
+                    "count": 5875,
+                    "key": "ratings",
+                    "value": "4.5"
+                },
+                {
+                    "title": "4,0 o más",
+                    "count": 8808,
+                    "key": "ratings",
+                    "value": "4.0"
+                },
+                {
+                    "title": "3,5 o más",
+                    "count": 9743,
+                    "key": "ratings",
+                    "value": "3.5"
+                },
+                {
+                    "title": "3,0 o más",
+                    "count": 10000,
+                    "key": "ratings",
+                    "value": "3.0"
+                }
+            ]
+        },
+        {
+            "title": "Duración del vídeo",
+            "key": "duration",
+            "options": [
+                {
+                    "title": "0-1 hora",
+                    "count": 2698,
+                    "key": "duration",
+                    "value": "extraShort"
+                },
+                {
+                    "title": "1-3 horas",
+                    "count": 5640,
+                    "key": "duration",
+                    "value": "short"
+                },
+                {
+                    "title": "Entre 3 y 6 horas",
+                    "count": 2366,
+                    "key": "duration",
+                    "value": "medium"
+                },
+                {
+                    "title": "6-17 horas",
+                    "count": 1073,
+                    "key": "duration",
+                    "value": "long"
+                },
+                {
+                    "title": "17 horas o más",
+                    "count": 159,
+                    "key": "duration",
+                    "value": "extraLong"
+                }
+            ]
+        }
+    ]
+}

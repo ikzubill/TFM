@@ -1,0 +1,919 @@
+{
+    "count": 7922,
+    "next": "https://www.udemy.com/api-2.0/courses/?category=Office+Productivity&page=2&page_size=10",
+    "previous": null,
+    "results": [
+        {
+            "_class": "course",
+            "id": 2727906,
+            "title": "Super Intensivo Excel Básico a Avanzado 2019 GRATIS",
+            "url": "/course/super-intensivo-excel-basico-a-avanzado-gratis/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "_OJ2hMSkTGi3ibePc_78jQ",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 98399488,
+                    "title": "Tu Oficina Ágil",
+                    "name": "Tu Oficina",
+                    "display_name": "Tu Oficina Ágil",
+                    "job_title": "Consultora Especializada en Crecimiento Profesional",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/98399488_a11a_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/98399488_a11a_2.jpg",
+                    "initials": "TA",
+                    "url": "/user/aulasolvo/"
+                },
+                {
+                    "_class": "user",
+                    "id": 11095452,
+                    "title": "Fernando Gianfranco Barruetto",
+                    "name": "Fernando Gianfranco",
+                    "display_name": "Fernando Gianfranco Barruetto",
+                    "job_title": "Ing. Industrial, Lean Six Sigma Black Belt y CQPA ASQ®",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/11095452_74e7_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/11095452_74e7_2.jpg",
+                    "initials": "FB",
+                    "url": "/user/fernandogianfrancobarruettoruiz/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/2727906_fd0a.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/2727906_fd0a.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/2727906_fd0a.jpg",
+            "published_title": "super-intensivo-excel-basico-a-avanzado-gratis",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Usa Excel desde 2013 a 2019 incluyendo 365 sin introducciones largas y 100% práctico",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 2558178,
+            "title": "Curso Excel de Tablas Dinámicas - Introducción Práctica",
+            "url": "/course/curso-gratis-tutorial-microsoft-excel-tablas-dinamicas-graficos/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "8YHovZ3aQo6E3E2J1RsxEA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 72390038,
+                    "title": "datdata – Cursos",
+                    "name": "datdata –",
+                    "display_name": "datdata – Cursos",
+                    "job_title": "Aprende Power BI y Análisis de datos",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/72390038_aefc_3.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/72390038_aefc_3.jpg",
+                    "initials": "DC",
+                    "url": "/user/datdata/"
+                },
+                {
+                    "_class": "user",
+                    "id": 189749794,
+                    "title": "Guillermo Perdomo Sosa",
+                    "name": "Guillermo",
+                    "display_name": "Guillermo Perdomo Sosa",
+                    "job_title": "Contador | Partner at datdata",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/189749794_b24c_3.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/189749794_b24c_3.jpg",
+                    "initials": "GP",
+                    "url": "/user/guillermo-perdomo-3/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/2558178_954c_9.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/2558178_954c_9.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/2558178_954c_9.jpg",
+            "published_title": "curso-gratis-tutorial-microsoft-excel-tablas-dinamicas-graficos",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Curso Gratis Excel de Tablas Dinámicas - Excel Básico a Avanzado - Ejercicios Prácticos con Tablas Dinámicas y Gráficos",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 42307,
+            "title": "Excel Desde Cero - Nivel Básico e Intermedio (2014)",
+            "url": "/course/excel-desde-cero-nivel-basico-e-intermedio/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "8T0P_zShS8-HhkaYJgseQg",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 30402002,
+                    "title": "Zenva Academy",
+                    "name": "Zenva",
+                    "display_name": "Zenva Academy",
+                    "job_title": "Build Games, Apps, Websites and VR Experiences",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/30402002_48cf_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/30402002_48cf_2.jpg",
+                    "initials": "ZA",
+                    "url": "/user/zenva/"
+                },
+                {
+                    "_class": "user",
+                    "id": 201592,
+                    "title": "Pablo Farias",
+                    "name": "Pablo",
+                    "display_name": "Pablo Farias",
+                    "job_title": "Certified Game Developer and Founder of ZENVA",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/201592_beaa_5.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/201592_beaa_5.jpg",
+                    "initials": "PF",
+                    "url": "/user/pablofariasnavarro/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/42307_2307_6.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/42307_2307_6.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/42307_2307_6.jpg",
+            "published_title": "excel-desde-cero-nivel-basico-e-intermedio",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_CL",
+                "title": "Español (Chile)",
+                "english_title": "Spanish (Chile)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende a utilizar esta gran herramienta desde cero!",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 3187212,
+            "title": "Microsoft Power BI - Introducción a Power Query Editor",
+            "url": "/course/power-bi-query-editor/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "YUb9HiUaR-iZl-J3ELMA0w",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 22313124,
+                    "title": "Javier Gomez",
+                    "name": "Javier",
+                    "display_name": "Javier Gomez",
+                    "job_title": "MBA, MOS®, MCP®, CAPM®, Data Analyst",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/22313124_a5bd.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/22313124_a5bd.jpg",
+                    "initials": "JG",
+                    "url": "/user/egpjavier/"
+                },
+                {
+                    "_class": "user",
+                    "id": 72390038,
+                    "title": "datdata – Cursos",
+                    "name": "datdata –",
+                    "display_name": "datdata – Cursos",
+                    "job_title": "Aprende Power BI y Análisis de datos",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/72390038_aefc_3.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/72390038_aefc_3.jpg",
+                    "initials": "DC",
+                    "url": "/user/datdata/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/3187212_45f8.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/3187212_45f8.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/3187212_45f8.jpg",
+            "published_title": "power-bi-query-editor",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_MX",
+                "title": "Español (México)",
+                "english_title": "Spanish (Mexico)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Curso de Power BI - Fundamentos de Power Query y ETL. Transforma datos de Excel y visualízalos en un dashboard",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 3341578,
+            "title": "Curso Gratuito SAP",
+            "url": "/course/curso-sap/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "JjpyrVsxTamjF73-QxfUsA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 127721772,
+                    "title": "Mywebstudies .com",
+                    "name": "Mywebstudies",
+                    "display_name": "Mywebstudies .com",
+                    "job_title": "Analista",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/127721772_7eec_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/127721772_7eec_2.jpg",
+                    "initials": "M.",
+                    "url": "/user/teresa-1819/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/3341578_63a0_2.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/3341578_63a0_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/3341578_63a0_2.jpg",
+            "published_title": "curso-sap",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Curso de Introducción a SAP.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 6140307,
+            "title": "Productividad Inteligente con IA",
+            "url": "/course/productividad-inteligente-con-ia/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "JIJf9zU0RAaGNLWl0ugCXA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 248724264,
+                    "title": "GlobalCobots AI Academy",
+                    "name": "GlobalCobots",
+                    "display_name": "GlobalCobots AI Academy",
+                    "job_title": "Instructor en Udemy",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/248724264_1e5f_8.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/248724264_1e5f_8.jpg",
+                    "initials": "GA",
+                    "url": "/user/globalcobots/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/6140307_6d75_2.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/6140307_6d75_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/6140307_6d75_2.jpg",
+            "published_title": "productividad-inteligente-con-ia",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aumenta tu eficiencia y automatiza tus tareas diarias utilizando Inteligencia Artificial",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 956362,
+            "title": "SAP Conceptos e iniciación",
+            "url": "/course/sap-conceptos-e-iniciacion/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "1T21XjcrRTaor8CgItZW7Q",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 15083352,
+                    "title": "Logali Group",
+                    "name": "Logali",
+                    "display_name": "Logali Group",
+                    "job_title": "Escuela educativa SAP",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/15083352_2d5f_8.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/15083352_2d5f_8.jpg",
+                    "initials": "LG",
+                    "url": "/user/logali-sap/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/956362_5cd3_4.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/956362_5cd3_4.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/956362_5cd3_4.jpg",
+            "published_title": "sap-conceptos-e-iniciacion",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "SAP Conceptos e iniciación",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 5279656,
+            "title": "Lidera a tu equipo con éxito con la ayuda de Microsoft Teams",
+            "url": "/course/curso-completo-liderazgo-gestion-equipos-microsoft-teams/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "OFQPJiV7RJyIgM8-FmBmyw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 213494578,
+                    "title": "Miquel Nadal Vela",
+                    "name": "Miquel",
+                    "display_name": "Miquel Nadal Vela",
+                    "job_title": "Especialista en Productividad Personal y Neurociencia",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/213494578_7b7f_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/213494578_7b7f_2.jpg",
+                    "initials": "MN",
+                    "url": "/user/miquel-nadal-vela-2/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/5279656_f47d.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/5279656_f47d.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/5279656_f47d.jpg",
+            "published_title": "curso-completo-liderazgo-gestion-equipos-microsoft-teams",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Sácale el máximo provecho a Microsoft Teams para mejorar la comunicación y el rendimiento de tu equipo",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 2697902,
+            "title": "Tablas dinámicas desde cero hasta análisis de datos",
+            "url": "/course/tablas-dinamicas-desde-cero-hasta-analisis-de-datos/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "tkE-EKcKQHuMf1doIZ3Y0g",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 31877892,
+                    "title": "Jairo Vera Chaly",
+                    "name": "Jairo",
+                    "display_name": "Jairo Vera Chaly",
+                    "job_title": "Analista de inteligencia de negocios",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/31877892_6872_8.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/31877892_6872_8.jpg",
+                    "initials": "JV",
+                    "url": "/user/jairo-vera-chaly/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/2697902_f902.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/2697902_f902.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/2697902_f902.jpg",
+            "published_title": "tablas-dinamicas-desde-cero-hasta-analisis-de-datos",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Domina las tablas dinámicas y análisis de datos con ejemplos que se aplican en el mundo laboral (Excel 2010 - 2019)",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 1977306,
+            "title": "Con Trello organiza tus proyectos de forma profesional",
+            "url": "/course/trello-en-espanol/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "Yh3xFrRITcGIkmKq2YUhIg",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 756192,
+                    "title": "Marvin Baptista",
+                    "name": "Marvin",
+                    "display_name": "Marvin Baptista",
+                    "job_title": "Digital Content Developer - Teacher",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/756192_3014_4.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/756192_3014_4.jpg",
+                    "initials": "MB",
+                    "url": "/user/gabrielbaptista/"
+                },
+                {
+                    "_class": "user",
+                    "id": 67599438,
+                    "title": "MedioDigital S.A.",
+                    "name": "MedioDigital",
+                    "display_name": "MedioDigital S.A.",
+                    "job_title": "Agencia de Contenido",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/67599438_5fe4_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/67599438_5fe4_2.jpg",
+                    "initials": "MS",
+                    "url": "/user/mediodigital/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/1977306_4a3c.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/1977306_4a3c.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/1977306_4a3c.jpg",
+            "published_title": "trello-en-espanol",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Ser organizado te ayuda a lograr mas en tu vida, con Trello lleva el control de las actividades y termínalas todas.",
+            "instructor_name": null
+        }
+    ],
+    "aggregations": [
+        {
+            "title": "Precio",
+            "key": "price",
+            "options": [
+                {
+                    "title": "De pago",
+                    "count": 7223,
+                    "key": "price",
+                    "value": "price-paid"
+                },
+                {
+                    "title": "Gratis",
+                    "count": 699,
+                    "key": "price",
+                    "value": "price-free"
+                }
+            ]
+        },
+        {
+            "title": "Nivel",
+            "key": "instructional_level",
+            "options": [
+                {
+                    "title": "Todos los niveles",
+                    "count": 4006,
+                    "key": "instructional_level",
+                    "value": "all"
+                },
+                {
+                    "title": "Principiante",
+                    "count": 2646,
+                    "key": "instructional_level",
+                    "value": "beginner"
+                },
+                {
+                    "title": "Intermedio",
+                    "count": 978,
+                    "key": "instructional_level",
+                    "value": "intermediate"
+                },
+                {
+                    "title": "Experto",
+                    "count": 292,
+                    "key": "instructional_level",
+                    "value": "expert"
+                }
+            ]
+        },
+        {
+            "title": "Características",
+            "key": "features",
+            "options": [
+                {
+                    "title": "Subtítulos",
+                    "count": 5193,
+                    "key": "features",
+                    "value": "has_closed_caption"
+                },
+                {
+                    "title": "Cuestionarios",
+                    "count": 1821,
+                    "key": "features",
+                    "value": "has_simple_quiz"
+                },
+                {
+                    "title": "Ejercicios de codificación",
+                    "count": 4,
+                    "key": "features",
+                    "value": "has_coding_exercises"
+                },
+                {
+                    "title": "Exámenes de prueba",
+                    "count": 505,
+                    "key": "features",
+                    "value": "has_practice_test"
+                }
+            ]
+        },
+        {
+            "title": "Idioma",
+            "key": "language",
+            "options": [
+                {
+                    "title": "English",
+                    "count": 4082,
+                    "key": "lang",
+                    "value": "en"
+                },
+                {
+                    "title": "Português",
+                    "count": 800,
+                    "key": "lang",
+                    "value": "pt"
+                },
+                {
+                    "title": "Español",
+                    "count": 730,
+                    "key": "lang",
+                    "value": "es"
+                },
+                {
+                    "title": "日本語",
+                    "count": 358,
+                    "key": "lang",
+                    "value": "ja"
+                },
+                {
+                    "title": "Français",
+                    "count": 284,
+                    "key": "lang",
+                    "value": "fr"
+                },
+                {
+                    "title": "Deutsch",
+                    "count": 264,
+                    "key": "lang",
+                    "value": "de"
+                },
+                {
+                    "title": "Türkçe",
+                    "count": 248,
+                    "key": "lang",
+                    "value": "tr"
+                },
+                {
+                    "title": "العربية",
+                    "count": 206,
+                    "key": "lang",
+                    "value": "ar"
+                },
+                {
+                    "title": "한국어",
+                    "count": 162,
+                    "key": "lang",
+                    "value": "ko"
+                },
+                {
+                    "title": "Italiano",
+                    "count": 161,
+                    "key": "lang",
+                    "value": "it"
+                },
+                {
+                    "title": "中文",
+                    "count": 159,
+                    "key": "lang",
+                    "value": "zh"
+                },
+                {
+                    "title": "Polski",
+                    "count": 88,
+                    "key": "lang",
+                    "value": "pl"
+                },
+                {
+                    "title": "हिन्दी",
+                    "count": 87,
+                    "key": "lang",
+                    "value": "hi"
+                },
+                {
+                    "title": "Indonesia",
+                    "count": 71,
+                    "key": "lang",
+                    "value": "id"
+                },
+                {
+                    "title": "Русский",
+                    "count": 58,
+                    "key": "lang",
+                    "value": "ru"
+                },
+                {
+                    "title": "Tiếng Việt",
+                    "count": 52,
+                    "key": "lang",
+                    "value": "vi"
+                },
+                {
+                    "title": "ไทย",
+                    "count": 17,
+                    "key": "lang",
+                    "value": "th"
+                },
+                {
+                    "title": "Ελληνικά",
+                    "count": 16,
+                    "key": "lang",
+                    "value": "el"
+                },
+                {
+                    "title": "اردو",
+                    "count": 13,
+                    "key": "lang",
+                    "value": "ur"
+                },
+                {
+                    "title": "Nederlands",
+                    "count": 11,
+                    "key": "lang",
+                    "value": "nl"
+                },
+                {
+                    "title": "Română",
+                    "count": 9,
+                    "key": "lang",
+                    "value": "ro"
+                },
+                {
+                    "title": "Azərbaycan",
+                    "count": 5,
+                    "key": "lang",
+                    "value": "az"
+                },
+                {
+                    "title": "Српски",
+                    "count": 5,
+                    "key": "lang",
+                    "value": "sr"
+                },
+                {
+                    "title": "বাংলা",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "bn"
+                },
+                {
+                    "title": "தமிழ்",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "ta"
+                },
+                {
+                    "title": "తెలుగు",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "te"
+                },
+                {
+                    "title": "Українська",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "uk"
+                },
+                {
+                    "title": "മലയാളം",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "ml"
+                },
+                {
+                    "title": "मराठी",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "mr"
+                },
+                {
+                    "title": "فارسی",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "fa"
+                },
+                {
+                    "title": "Magyar",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "hu"
+                },
+                {
+                    "title": "Runasimi",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "qu"
+                },
+                {
+                    "title": "Čeština",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "cs"
+                },
+                {
+                    "title": "Հայերեն",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "hy"
+                },
+                {
+                    "title": "ქართული",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ka"
+                },
+                {
+                    "title": "ខ្មែរ",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "km"
+                },
+                {
+                    "title": "ಕನ್ನಡ",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "kn"
+                },
+                {
+                    "title": "Norsk bokmål",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "nb"
+                },
+                {
+                    "title": "नेपाली",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ne"
+                },
+                {
+                    "title": "پښتو",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ps"
+                }
+            ]
+        },
+        {
+            "title": "Valoraciones",
+            "key": "ratings",
+            "options": [
+                {
+                    "title": "4,5 o más",
+                    "count": 3000,
+                    "key": "ratings",
+                    "value": "4.5"
+                },
+                {
+                    "title": "4,0 o más",
+                    "count": 5778,
+                    "key": "ratings",
+                    "value": "4.0"
+                },
+                {
+                    "title": "3,5 o más",
+                    "count": 6692,
+                    "key": "ratings",
+                    "value": "3.5"
+                },
+                {
+                    "title": "3,0 o más",
+                    "count": 6958,
+                    "key": "ratings",
+                    "value": "3.0"
+                }
+            ]
+        },
+        {
+            "title": "Duración del vídeo",
+            "key": "duration",
+            "options": [
+                {
+                    "title": "0-1 hora",
+                    "count": 1148,
+                    "key": "duration",
+                    "value": "extraShort"
+                },
+                {
+                    "title": "1-3 horas",
+                    "count": 2816,
+                    "key": "duration",
+                    "value": "short"
+                },
+                {
+                    "title": "Entre 3 y 6 horas",
+                    "count": 1853,
+                    "key": "duration",
+                    "value": "medium"
+                },
+                {
+                    "title": "6-17 horas",
+                    "count": 1686,
+                    "key": "duration",
+                    "value": "long"
+                },
+                {
+                    "title": "17 horas o más",
+                    "count": 419,
+                    "key": "duration",
+                    "value": "extraLong"
+                }
+            ]
+        }
+    ]
+}

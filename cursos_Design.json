@@ -1,0 +1,961 @@
+{
+    "count": 10000,
+    "next": "https://www.udemy.com/api-2.0/courses/?category=Design&page=2&page_size=10",
+    "previous": null,
+    "results": [
+        {
+            "_class": "course",
+            "id": 814594,
+            "title": "Aprende HTML5 y CSS3 desde cero",
+            "url": "/course/aprende-html5-y-css3-desde-cero/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "7e4YXM4YS5-7F_RFpc3QaQ",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 19669210,
+                    "title": "Juan Fernando Urrego",
+                    "name": "Juan Fernando",
+                    "display_name": "Juan Fernando Urrego",
+                    "job_title": "Diseñador Visual y Desarrollador Web",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/19669210_5242_41.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/19669210_5242_41.jpg",
+                    "initials": "JU",
+                    "url": "/user/juanunativa/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/814594_15eb_4.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/814594_15eb_4.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/814594_15eb_4.jpg",
+            "published_title": "aprende-html5-y-css3-desde-cero",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_CO",
+                "title": "Español (Colombia)",
+                "english_title": "Spanish (Colombia)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Construye sitios web desde cero aprendiendo el lenguaje de marcado HTML5 y el lenguaje de estilos CSS3",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 5953614,
+            "title": "Introducción teórica al Diseño UX/UI",
+            "url": "/course/introduccion-al-diseno-uxui/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "5EbnPtthTh2rUJohilyqmQ",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 41917904,
+                    "title": "Espacio UX - Brian Fierro",
+                    "name": "Espacio UX - Brian",
+                    "display_name": "Espacio UX - Brian Fierro",
+                    "job_title": "Product Designer",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/41917904_0433_4.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/41917904_0433_4.jpg",
+                    "initials": "EF",
+                    "url": "/user/brian-fierro/"
+                },
+                {
+                    "_class": "user",
+                    "id": 37526024,
+                    "title": "Espacio UX - Javier Cañas",
+                    "name": "Espacio UX",
+                    "display_name": "Espacio UX - Javier Cañas",
+                    "job_title": "Sr. Product Designer",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/37526024_0001_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/37526024_0001_2.jpg",
+                    "initials": "E-",
+                    "url": "/user/javier-canas-2/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/5953614_92c8_5.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/5953614_92c8_5.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/5953614_92c8_5.jpg",
+            "published_title": "introduccion-al-diseno-uxui",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Descubre los fundamentos y Procesos básicos del Diseño UX/UI",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 3493158,
+            "title": "Introducción a Figma 2024",
+            "url": "/course/figma-diseno-de-prototipos-desde-cero/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "ZPS6LnZbTK2sXTGajvqTnQ",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 37526024,
+                    "title": "Espacio UX - Javier Cañas",
+                    "name": "Espacio UX",
+                    "display_name": "Espacio UX - Javier Cañas",
+                    "job_title": "Sr. Product Designer",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/37526024_0001_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/37526024_0001_2.jpg",
+                    "initials": "E-",
+                    "url": "/user/javier-canas-2/"
+                },
+                {
+                    "_class": "user",
+                    "id": 41917904,
+                    "title": "Espacio UX - Brian Fierro",
+                    "name": "Espacio UX - Brian",
+                    "display_name": "Espacio UX - Brian Fierro",
+                    "job_title": "Product Designer",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/41917904_0433_4.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/41917904_0433_4.jpg",
+                    "initials": "EF",
+                    "url": "/user/brian-fierro/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/3493158_85ad_6.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/3493158_85ad_6.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/3493158_85ad_6.jpg",
+            "published_title": "figma-diseno-de-prototipos-desde-cero",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Conoce y aprende desde cero cómo utilizar Figma y las herramientas para diseñar interfaces con Figma en este 2023",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 3294068,
+            "title": "Figma tutorial - Diseña una página web con Figma 2022",
+            "url": "/course/disena-una-increible-pagina-web-con-figma/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "YewdZFTITUW2ASs989S0dw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 40557036,
+                    "title": "Diego Velazquez",
+                    "name": "Diego",
+                    "display_name": "Diego Velazquez",
+                    "job_title": "Senior Product Designer",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/40557036_dab0_4.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/40557036_dab0_4.jpg",
+                    "initials": "DV",
+                    "url": "/user/diego-velazquez-9/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/3294068_93e5_5.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/3294068_93e5_5.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/3294068_93e5_5.jpg",
+            "published_title": "disena-una-increible-pagina-web-con-figma",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_MX",
+                "title": "Español (México)",
+                "english_title": "Spanish (Mexico)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende a diseñar una página web atractiva con Figma",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 1754560,
+            "title": "Adobe XD: Aprende a crear prototipos profesionales desde 0",
+            "url": "/course/curso-adobe-xd/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "QFM9vwBlTNy2aeEeDVDkrg",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 2904600,
+                    "title": "Carlos Arturo Esparza",
+                    "name": "Carlos Arturo",
+                    "display_name": "Carlos Arturo Esparza",
+                    "job_title": "Desarrollador Web y Fundador de FalconMasters",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/2904600_950b_3.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/2904600_950b_3.jpg",
+                    "initials": "CE",
+                    "url": "/user/carlosarturo2/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/1754560_1572_5.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/1754560_1572_5.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/1754560_1572_5.jpg",
+            "published_title": "curso-adobe-xd",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_MX",
+                "title": "Español (México)",
+                "english_title": "Spanish (Mexico)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "El curso en el que aprenderas a diseñar prototipos profesionales de sitios web, applicaciones moviles y software.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 749262,
+            "title": "Curso de maquetación web de lo básico a lo avanzado",
+            "url": "/course/curso-de-diseno-y-maquetacion-web-de-cero-a-experto/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "p4RFz_yoTUmjIeo9OlWplA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 19669210,
+                    "title": "Juan Fernando Urrego",
+                    "name": "Juan Fernando",
+                    "display_name": "Juan Fernando Urrego",
+                    "job_title": "Diseñador Visual y Desarrollador Web",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/19669210_5242_41.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/19669210_5242_41.jpg",
+                    "initials": "JU",
+                    "url": "/user/juanunativa/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/749262_08d8_6.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/749262_08d8_6.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/749262_08d8_6.jpg",
+            "published_title": "curso-de-diseno-y-maquetacion-web-de-cero-a-experto",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_CO",
+                "title": "Español (Colombia)",
+                "english_title": "Spanish (Colombia)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende a maquetar sitios web de una manera fácil y efectiva en los lenguajes HTML5 y CSS3",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 2039484,
+            "title": "Blender la guía completa para novatos",
+            "url": "/course/blender-la-guia-completa-para-novatos/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "lizUfI_CTtiz2xvBsEknmw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 19669210,
+                    "title": "Juan Fernando Urrego",
+                    "name": "Juan Fernando",
+                    "display_name": "Juan Fernando Urrego",
+                    "job_title": "Diseñador Visual y Desarrollador Web",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/19669210_5242_41.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/19669210_5242_41.jpg",
+                    "initials": "JU",
+                    "url": "/user/juanunativa/"
+                },
+                {
+                    "_class": "user",
+                    "id": 10014468,
+                    "title": "Alex Zapata",
+                    "name": "Alex",
+                    "display_name": "Alex Zapata",
+                    "job_title": "Diseñador Gráfico",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/10014468_0944_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/10014468_0944_2.jpg",
+                    "initials": "AZ",
+                    "url": "/user/alexzapata3/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/2039484_05d1_6.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/2039484_05d1_6.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/2039484_05d1_6.jpg",
+            "published_title": "blender-la-guia-completa-para-novatos",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_CO",
+                "title": "Español (Colombia)",
+                "english_title": "Spanish (Colombia)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende a realizar proyectos en Blender sin conocimientos previos y mejora tus habilidades en producción 3D",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 5685844,
+            "title": "La Magia de Canva - Estudio Mágico",
+            "url": "/course/la-magia-de-canva-estudio-magico/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "QFaH2LUzRkqdGEBfjqrZzw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 114347950,
+                    "title": "Maria Leticia Ditrani",
+                    "name": "Maria Leticia",
+                    "display_name": "Maria Leticia Ditrani",
+                    "job_title": "Magister en Marketing Digital - Community Canvassador Canva",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/114347950_ec57_6.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/114347950_ec57_6.jpg",
+                    "initials": "MD",
+                    "url": "/user/maria-leticia-ditrani/"
+                },
+                {
+                    "_class": "user",
+                    "id": 144477946,
+                    "title": "Educreativa Cursos Online",
+                    "name": "Educreativa",
+                    "display_name": "Educreativa Cursos Online",
+                    "job_title": "Academia de Marketing & Educación",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/144477946_e58c.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/144477946_e58c.jpg",
+                    "initials": "EC",
+                    "url": "/user/marina-soria-4/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/5685844_c640.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/5685844_c640.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/5685844_c640.jpg",
+            "published_title": "la-magia-de-canva-estudio-magico",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Descubre el potencial de la Inteligencia Artificial para tus diseños",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 6106841,
+            "title": "Crea una página web desde cero con HTML y CSS",
+            "url": "/course/crea-una-pagina-web-html-y-css/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "7AFEnr5mTbKOEtg2wyy81Q",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 74235878,
+                    "title": "Jordan Alexander",
+                    "name": "Jordan",
+                    "display_name": "Jordan Alexander",
+                    "job_title": "Ingenierio en Tecnologías de la Información",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/74235878_66e3_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/74235878_66e3_2.jpg",
+                    "initials": "JA",
+                    "url": "/user/jordan-alexander-16/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/6106841_669d_3.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/6106841_669d_3.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/6106841_669d_3.jpg",
+            "published_title": "crea-una-pagina-web-html-y-css",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_MX",
+                "title": "Español (México)",
+                "english_title": "Spanish (Mexico)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Utiliza HTML y CSS moderno para crear una página web desde cero.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 2406144,
+            "title": "Crea una página web MODERNA con HTML CSS y JS",
+            "url": "/course/crea-tu-primera-pagina-web/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "ZU2U5JQTR9SowBfhRDMZxQ",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 74235878,
+                    "title": "Jordan Alexander",
+                    "name": "Jordan",
+                    "display_name": "Jordan Alexander",
+                    "job_title": "Ingenierio en Tecnologías de la Información",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/74235878_66e3_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/74235878_66e3_2.jpg",
+                    "initials": "JA",
+                    "url": "/user/jordan-alexander-16/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/2406144_9a1c.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/2406144_9a1c.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/2406144_9a1c.jpg",
+            "published_title": "crea-tu-primera-pagina-web",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_MX",
+                "title": "Español (México)",
+                "english_title": "Spanish (Mexico)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende a crear una página web desde 0 la página web está hecha con HTML, CSS y JS [Javascript] | Crea sitios web",
+            "instructor_name": null
+        }
+    ],
+    "aggregations": [
+        {
+            "title": "Precio",
+            "key": "price",
+            "options": [
+                {
+                    "title": "De pago",
+                    "count": 10000,
+                    "key": "price",
+                    "value": "price-paid"
+                },
+                {
+                    "title": "Gratis",
+                    "count": 1723,
+                    "key": "price",
+                    "value": "price-free"
+                }
+            ]
+        },
+        {
+            "title": "Nivel",
+            "key": "instructional_level",
+            "options": [
+                {
+                    "title": "Todos los niveles",
+                    "count": 7937,
+                    "key": "instructional_level",
+                    "value": "all"
+                },
+                {
+                    "title": "Principiante",
+                    "count": 7671,
+                    "key": "instructional_level",
+                    "value": "beginner"
+                },
+                {
+                    "title": "Intermedio",
+                    "count": 2403,
+                    "key": "instructional_level",
+                    "value": "intermediate"
+                },
+                {
+                    "title": "Experto",
+                    "count": 332,
+                    "key": "instructional_level",
+                    "value": "expert"
+                }
+            ]
+        },
+        {
+            "title": "Características",
+            "key": "features",
+            "options": [
+                {
+                    "title": "Subtítulos",
+                    "count": 10000,
+                    "key": "features",
+                    "value": "has_closed_caption"
+                },
+                {
+                    "title": "Cuestionarios",
+                    "count": 1995,
+                    "key": "features",
+                    "value": "has_simple_quiz"
+                },
+                {
+                    "title": "Ejercicios de codificación",
+                    "count": 14,
+                    "key": "features",
+                    "value": "has_coding_exercises"
+                },
+                {
+                    "title": "Exámenes de prueba",
+                    "count": 503,
+                    "key": "features",
+                    "value": "has_practice_test"
+                }
+            ]
+        },
+        {
+            "title": "Idioma",
+            "key": "language",
+            "options": [
+                {
+                    "title": "English",
+                    "count": 9602,
+                    "key": "lang",
+                    "value": "en"
+                },
+                {
+                    "title": "Español",
+                    "count": 1724,
+                    "key": "lang",
+                    "value": "es"
+                },
+                {
+                    "title": "Português",
+                    "count": 1575,
+                    "key": "lang",
+                    "value": "pt"
+                },
+                {
+                    "title": "Türkçe",
+                    "count": 1123,
+                    "key": "lang",
+                    "value": "tr"
+                },
+                {
+                    "title": "العربية",
+                    "count": 741,
+                    "key": "lang",
+                    "value": "ar"
+                },
+                {
+                    "title": "日本語",
+                    "count": 611,
+                    "key": "lang",
+                    "value": "ja"
+                },
+                {
+                    "title": "Français",
+                    "count": 571,
+                    "key": "lang",
+                    "value": "fr"
+                },
+                {
+                    "title": "Italiano",
+                    "count": 389,
+                    "key": "lang",
+                    "value": "it"
+                },
+                {
+                    "title": "Deutsch",
+                    "count": 341,
+                    "key": "lang",
+                    "value": "de"
+                },
+                {
+                    "title": "中文",
+                    "count": 278,
+                    "key": "lang",
+                    "value": "zh"
+                },
+                {
+                    "title": "한국어",
+                    "count": 246,
+                    "key": "lang",
+                    "value": "ko"
+                },
+                {
+                    "title": "हिन्दी",
+                    "count": 235,
+                    "key": "lang",
+                    "value": "hi"
+                },
+                {
+                    "title": "Русский",
+                    "count": 233,
+                    "key": "lang",
+                    "value": "ru"
+                },
+                {
+                    "title": "Polski",
+                    "count": 186,
+                    "key": "lang",
+                    "value": "pl"
+                },
+                {
+                    "title": "Indonesia",
+                    "count": 141,
+                    "key": "lang",
+                    "value": "id"
+                },
+                {
+                    "title": "اردو",
+                    "count": 73,
+                    "key": "lang",
+                    "value": "ur"
+                },
+                {
+                    "title": "Tiếng Việt",
+                    "count": 43,
+                    "key": "lang",
+                    "value": "vi"
+                },
+                {
+                    "title": "தமிழ்",
+                    "count": 35,
+                    "key": "lang",
+                    "value": "ta"
+                },
+                {
+                    "title": "ไทย",
+                    "count": 30,
+                    "key": "lang",
+                    "value": "th"
+                },
+                {
+                    "title": "Nederlands",
+                    "count": 26,
+                    "key": "lang",
+                    "value": "nl"
+                },
+                {
+                    "title": "Română",
+                    "count": 21,
+                    "key": "lang",
+                    "value": "ro"
+                },
+                {
+                    "title": "বাংলা",
+                    "count": 17,
+                    "key": "lang",
+                    "value": "bn"
+                },
+                {
+                    "title": "Ελληνικά",
+                    "count": 15,
+                    "key": "lang",
+                    "value": "el"
+                },
+                {
+                    "title": "עברית",
+                    "count": 12,
+                    "key": "lang",
+                    "value": "he"
+                },
+                {
+                    "title": "Українська",
+                    "count": 10,
+                    "key": "lang",
+                    "value": "uk"
+                },
+                {
+                    "title": "Azərbaycan",
+                    "count": 6,
+                    "key": "lang",
+                    "value": "az"
+                },
+                {
+                    "title": "മലയാളം",
+                    "count": 6,
+                    "key": "lang",
+                    "value": "ml"
+                },
+                {
+                    "title": "मराठी",
+                    "count": 6,
+                    "key": "lang",
+                    "value": "mr"
+                },
+                {
+                    "title": "Kiswahili",
+                    "count": 6,
+                    "key": "lang",
+                    "value": "sw"
+                },
+                {
+                    "title": "Magyar",
+                    "count": 5,
+                    "key": "lang",
+                    "value": "hu"
+                },
+                {
+                    "title": "မြန်မာ",
+                    "count": 5,
+                    "key": "lang",
+                    "value": "my"
+                },
+                {
+                    "title": "తెలుగు",
+                    "count": 5,
+                    "key": "lang",
+                    "value": "te"
+                },
+                {
+                    "title": "Svenska",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "sv"
+                },
+                {
+                    "title": "فارسی",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "fa"
+                },
+                {
+                    "title": "O‘zbek",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "uz"
+                },
+                {
+                    "title": "Български",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "bg"
+                },
+                {
+                    "title": "Suomi",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "fi"
+                },
+                {
+                    "title": "Melayu",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "ms"
+                },
+                {
+                    "title": "Eesti",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "et"
+                },
+                {
+                    "title": "Հայերեն",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "hy"
+                },
+                {
+                    "title": "ქართული",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ka"
+                },
+                {
+                    "title": "Қазақ тілі",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "kk"
+                },
+                {
+                    "title": "ខ្មែរ",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "km"
+                },
+                {
+                    "title": "ಕನ್ನಡ",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "kn"
+                },
+                {
+                    "title": "Lietuvių",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "lt"
+                },
+                {
+                    "title": "नेपाली",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ne"
+                },
+                {
+                    "title": "پښتو",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ps"
+                },
+                {
+                    "title": "Soomaali",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "so"
+                },
+                {
+                    "title": "Српски",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "sr"
+                }
+            ]
+        },
+        {
+            "title": "Valoraciones",
+            "key": "ratings",
+            "options": [
+                {
+                    "title": "4,5 o más",
+                    "count": 7302,
+                    "key": "ratings",
+                    "value": "4.5"
+                },
+                {
+                    "title": "4,0 o más",
+                    "count": 10000,
+                    "key": "ratings",
+                    "value": "4.0"
+                },
+                {
+                    "title": "3,5 o más",
+                    "count": 10000,
+                    "key": "ratings",
+                    "value": "3.5"
+                },
+                {
+                    "title": "3,0 o más",
+                    "count": 10000,
+                    "key": "ratings",
+                    "value": "3.0"
+                }
+            ]
+        },
+        {
+            "title": "Duración del vídeo",
+            "key": "duration",
+            "options": [
+                {
+                    "title": "0-1 hora",
+                    "count": 2200,
+                    "key": "duration",
+                    "value": "extraShort"
+                },
+                {
+                    "title": "1-3 horas",
+                    "count": 6111,
+                    "key": "duration",
+                    "value": "short"
+                },
+                {
+                    "title": "Entre 3 y 6 horas",
+                    "count": 4358,
+                    "key": "duration",
+                    "value": "medium"
+                },
+                {
+                    "title": "6-17 horas",
+                    "count": 4222,
+                    "key": "duration",
+                    "value": "long"
+                },
+                {
+                    "title": "17 horas o más",
+                    "count": 1453,
+                    "key": "duration",
+                    "value": "extraLong"
+                }
+            ]
+        }
+    ]
+}

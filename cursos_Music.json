@@ -1,0 +1,861 @@
+{
+    "count": 6511,
+    "next": "https://www.udemy.com/api-2.0/courses/?category=Music&page=2&page_size=10",
+    "previous": null,
+    "results": [
+        {
+            "_class": "course",
+            "id": 3326320,
+            "title": "Curso de teoría musical - nivel básico",
+            "url": "/course/curso-de-teoria-musical-nivel-basico/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "913_DRTeQ2O6r9anE1DtsA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 121189052,
+                    "title": "Juan Carlos Martinez",
+                    "name": "Juan Carlos",
+                    "display_name": "Juan Carlos Martinez",
+                    "job_title": "Músico &  Freelancer",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/121189052_5f49.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/121189052_5f49.jpg",
+                    "initials": "JM",
+                    "url": "/user/juan-carlos-martinez-pena-2/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/3326320_1d5b.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/3326320_1d5b.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/3326320_1d5b.jpg",
+            "published_title": "curso-de-teoria-musical-nivel-basico",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_MX",
+                "title": "Español (México)",
+                "english_title": "Spanish (Mexico)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende armonía y teoría musical de una manera clara y sencilla",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 2214366,
+            "title": "14 Estudios diarios para guitarra",
+            "url": "/course/14-estudios-para-guitarra/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "X93EmEDDRpGizaa1S9M0Tw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 62394890,
+                    "title": "Andres Villamil",
+                    "name": "Andres",
+                    "display_name": "Andres Villamil",
+                    "job_title": "Guitar teacher",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/62394890_15af_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/62394890_15af_2.jpg",
+                    "initials": "AV",
+                    "url": "/user/andres-villamil-4/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/2214366_5426.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/2214366_5426.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/2214366_5426.jpg",
+            "published_title": "14-estudios-para-guitarra",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Mejora tu técnica dedicando poco tiempo",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 4199238,
+            "title": "Curso de Guitarra Basica.",
+            "url": "/course/curso-de-guitarra-basica/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "EatBFYTcTKOQsKA2-Ikmvg",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 167663920,
+                    "title": "Eliseo Fabian",
+                    "name": "Eliseo",
+                    "display_name": "Eliseo Fabian",
+                    "job_title": "Ingeniero Mecanico",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/167663920_1575_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/167663920_1575_2.jpg",
+                    "initials": "EF",
+                    "url": "/user/oliverio-fabian-fabian/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/4199238_75c4_2.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/4199238_75c4_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/4199238_75c4_2.jpg",
+            "published_title": "curso-de-guitarra-basica",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_MX",
+                "title": "Español (México)",
+                "english_title": "Spanish (Mexico)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprendamos desde cero.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 3239341,
+            "title": "Introducción a la Armonía",
+            "url": "/course/introduccion-a-la-armonia/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "7zDTwMtoTAWkoGtYkXAsvA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 122674709,
+                    "title": "David Ugalde",
+                    "name": "David",
+                    "display_name": "David Ugalde",
+                    "job_title": "Pianista Profesional y Profesor de Música",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/122674709_b827.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/122674709_b827.jpg",
+                    "initials": "DU",
+                    "url": "/user/cursos-superiores-de-musica/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/3239341_280d.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/3239341_280d.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/3239341_280d.jpg",
+            "published_title": "introduccion-a-la-armonia",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende la matemática de la Música",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 4493392,
+            "title": "Mezcla y Masterización con FL Studio",
+            "url": "/course/mezcla-y-masterizacion-con-fl-studio/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "G2t93pzFSRy9Ja3vICAUVw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 183637990,
+                    "title": "Pedro Toledo",
+                    "name": "Pedro",
+                    "display_name": "Pedro Toledo",
+                    "job_title": "Ingeniero de Sonido",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/183637990_b73a.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/183637990_b73a.jpg",
+                    "initials": "PT",
+                    "url": "/user/pedro-toledo-19/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/4493392_eb0a.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/4493392_eb0a.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/4493392_eb0a.jpg",
+            "published_title": "mezcla-y-masterizacion-con-fl-studio",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende a masterizar con el secuenciador más básico y funcional que existe.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 6257017,
+            "title": "Conceptos Básicos de la Mezcla Musical - EQ y Compresión",
+            "url": "/course/eq-y-compresion/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "JbRTmgtTT7WSUgk35vF3WA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 23566298,
+                    "title": "Tomas George",
+                    "name": "Tomas",
+                    "display_name": "Tomas George",
+                    "job_title": "Music Producer, Composer and Audio Engineer",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/23566298_e66f_4.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/23566298_e66f_4.jpg",
+                    "initials": "TG",
+                    "url": "/user/tomas-george/"
+                },
+                {
+                    "_class": "user",
+                    "id": 283631731,
+                    "title": "DMM Español",
+                    "name": "DMM",
+                    "display_name": "DMM Español",
+                    "job_title": "Academia de producción musical en línea",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/283631731_dea4.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/283631731_dea4.jpg",
+                    "initials": "DE",
+                    "url": "/user/dmm-espanol/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/6257017_025b.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/6257017_025b.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/6257017_025b.jpg",
+            "published_title": "eq-y-compresion",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende lo Esencial de EQ y Compresión en esta Guía de Producción Musical para Mejorar tu Mezcla de Audio",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 6229271,
+            "title": "Aprende a masterizar en Logic Pro | Mastering desde cero",
+            "url": "/course/aprende-a-masterizar-en-logic-pro-mastering-desde-cero/",
+            "is_paid": true,
+            "price": "44,99 €",
+            "price_detail": {
+                "amount": 44.99,
+                "currency": "EUR",
+                "price_string": "44,99 €",
+                "currency_symbol": "€"
+            },
+            "price_serve_tracking_id": "CW0Sd9KuQ7C44jMss2Tqlg",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 282132191,
+                    "title": "Tragoudi Academy",
+                    "name": "Tragoudi",
+                    "display_name": "Tragoudi Academy",
+                    "job_title": "Plataforma de educación en la industria musical",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/282132191_acae.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/282132191_acae.jpg",
+                    "initials": "TA",
+                    "url": "/user/tragoudi/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/6229271_ef6a_4.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/6229271_ef6a_4.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/6229271_ef6a_4.jpg",
+            "published_title": "aprende-a-masterizar-en-logic-pro-mastering-desde-cero",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Curso de masterización para músicos, cantantes y artistas",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 5890726,
+            "title": "Acordes y Escalas para Guitarra - El Curso Definitivo",
+            "url": "/course/teoria-musical-para-guitarristas-el-curso-definitivo/",
+            "is_paid": true,
+            "price": "49,99 €",
+            "price_detail": {
+                "amount": 49.99,
+                "currency": "EUR",
+                "price_string": "49,99 €",
+                "currency_symbol": "€"
+            },
+            "price_serve_tracking_id": "oz2R4VixSTSrjmf8QIDMIw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 180659444,
+                    "title": "Alberto Aragón",
+                    "name": "Alberto",
+                    "display_name": "Alberto Aragón",
+                    "job_title": "Profesor de Guitarra",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/180659444_2857_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/180659444_2857_2.jpg",
+                    "initials": "AA",
+                    "url": "/user/alberto-aragon-9/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/5890726_2de4.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/5890726_2de4.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/5890726_2de4.jpg",
+            "published_title": "teoria-musical-para-guitarristas-el-curso-definitivo",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Curso de Acordes y Escalas Completo",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 5467878,
+            "title": "Técnicas de Dirección de orquesta para músicos paso a paso.",
+            "url": "/course/tecnicas-de-direccion-de-orquesta-para-musicos-paso-a-paso/",
+            "is_paid": true,
+            "price": "109,99 €",
+            "price_detail": {
+                "amount": 109.99,
+                "currency": "EUR",
+                "price_string": "109,99 €",
+                "currency_symbol": "€"
+            },
+            "price_serve_tracking_id": "O-Kblmy6TvOmmnd6KpuuwQ",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 158754370,
+                    "title": "Mario De Rose",
+                    "name": "Mario",
+                    "display_name": "Mario De Rose",
+                    "job_title": "Licenciado en Música",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/158754370_ffcb_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/158754370_ffcb_2.jpg",
+                    "initials": "MD",
+                    "url": "/user/mario-de-rose-2/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/5467878_3b32_2.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/5467878_3b32_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/5467878_3b32_2.jpg",
+            "published_title": "tecnicas-de-direccion-de-orquesta-para-musicos-paso-a-paso",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Desarrollo de una técnica de dirección personalizada. Desarrolla tu propio estilo de dirección.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 6231985,
+            "title": "Drumming and rhythm for women",
+            "url": "/course/drumming-from-the-female-body/",
+            "is_paid": true,
+            "price": "44,99 €",
+            "price_detail": {
+                "amount": 44.99,
+                "currency": "EUR",
+                "price_string": "44,99 €",
+                "currency_symbol": "€"
+            },
+            "price_serve_tracking_id": "VOo-6vWFSDqOBOjJI8yttw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 103695394,
+                    "title": "Adriana Olarte",
+                    "name": "Adriana",
+                    "display_name": "Adriana Olarte",
+                    "job_title": "Percussionist and bass player",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/103695394_fe34.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/103695394_fe34.jpg",
+                    "initials": "AO",
+                    "url": "/user/adriana-maria-olarte-chueca/"
+                }
+            ],
+            "image_125_H": "https://img-c.udemycdn.com/course/125_H/6231985_bffd_2.jpg",
+            "image_240x135": "https://img-c.udemycdn.com/course/240x135/6231985_bffd_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-c.udemycdn.com/course/480x270/6231985_bffd_2.jpg",
+            "published_title": "drumming-from-the-female-body",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "connect with your inner rhythm. Embody your rhytmical essence through drumming.",
+            "instructor_name": null
+        }
+    ],
+    "aggregations": [
+        {
+            "title": "Precio",
+            "key": "price",
+            "options": [
+                {
+                    "title": "De pago",
+                    "count": 6077,
+                    "key": "price",
+                    "value": "price-paid"
+                },
+                {
+                    "title": "Gratis",
+                    "count": 434,
+                    "key": "price",
+                    "value": "price-free"
+                }
+            ]
+        },
+        {
+            "title": "Nivel",
+            "key": "instructional_level",
+            "options": [
+                {
+                    "title": "Principiante",
+                    "count": 2972,
+                    "key": "instructional_level",
+                    "value": "beginner"
+                },
+                {
+                    "title": "Todos los niveles",
+                    "count": 2306,
+                    "key": "instructional_level",
+                    "value": "all"
+                },
+                {
+                    "title": "Intermedio",
+                    "count": 1094,
+                    "key": "instructional_level",
+                    "value": "intermediate"
+                },
+                {
+                    "title": "Experto",
+                    "count": 139,
+                    "key": "instructional_level",
+                    "value": "expert"
+                }
+            ]
+        },
+        {
+            "title": "Características",
+            "key": "features",
+            "options": [
+                {
+                    "title": "Subtítulos",
+                    "count": 4209,
+                    "key": "features",
+                    "value": "has_closed_caption"
+                },
+                {
+                    "title": "Cuestionarios",
+                    "count": 767,
+                    "key": "features",
+                    "value": "has_simple_quiz"
+                },
+                {
+                    "title": "Ejercicios de codificación",
+                    "count": 1,
+                    "key": "features",
+                    "value": "has_coding_exercises"
+                },
+                {
+                    "title": "Exámenes de prueba",
+                    "count": 66,
+                    "key": "features",
+                    "value": "has_practice_test"
+                }
+            ]
+        },
+        {
+            "title": "Idioma",
+            "key": "language",
+            "options": [
+                {
+                    "title": "English",
+                    "count": 3908,
+                    "key": "lang",
+                    "value": "en"
+                },
+                {
+                    "title": "Español",
+                    "count": 660,
+                    "key": "lang",
+                    "value": "es"
+                },
+                {
+                    "title": "Português",
+                    "count": 649,
+                    "key": "lang",
+                    "value": "pt"
+                },
+                {
+                    "title": "日本語",
+                    "count": 254,
+                    "key": "lang",
+                    "value": "ja"
+                },
+                {
+                    "title": "Deutsch",
+                    "count": 218,
+                    "key": "lang",
+                    "value": "de"
+                },
+                {
+                    "title": "Türkçe",
+                    "count": 199,
+                    "key": "lang",
+                    "value": "tr"
+                },
+                {
+                    "title": "Italiano",
+                    "count": 161,
+                    "key": "lang",
+                    "value": "it"
+                },
+                {
+                    "title": "Français",
+                    "count": 127,
+                    "key": "lang",
+                    "value": "fr"
+                },
+                {
+                    "title": "العربية",
+                    "count": 83,
+                    "key": "lang",
+                    "value": "ar"
+                },
+                {
+                    "title": "中文",
+                    "count": 61,
+                    "key": "lang",
+                    "value": "zh"
+                },
+                {
+                    "title": "Русский",
+                    "count": 37,
+                    "key": "lang",
+                    "value": "ru"
+                },
+                {
+                    "title": "हिन्दी",
+                    "count": 35,
+                    "key": "lang",
+                    "value": "hi"
+                },
+                {
+                    "title": "Polski",
+                    "count": 34,
+                    "key": "lang",
+                    "value": "pl"
+                },
+                {
+                    "title": "한국어",
+                    "count": 24,
+                    "key": "lang",
+                    "value": "ko"
+                },
+                {
+                    "title": "Română",
+                    "count": 11,
+                    "key": "lang",
+                    "value": "ro"
+                },
+                {
+                    "title": "Indonesia",
+                    "count": 9,
+                    "key": "lang",
+                    "value": "id"
+                },
+                {
+                    "title": "עברית",
+                    "count": 8,
+                    "key": "lang",
+                    "value": "he"
+                },
+                {
+                    "title": "Magyar",
+                    "count": 5,
+                    "key": "lang",
+                    "value": "hu"
+                },
+                {
+                    "title": "தமிழ்",
+                    "count": 5,
+                    "key": "lang",
+                    "value": "ta"
+                },
+                {
+                    "title": "Nederlands",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "nl"
+                },
+                {
+                    "title": "Українська",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "uk"
+                },
+                {
+                    "title": "ไทย",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "th"
+                },
+                {
+                    "title": "اردو",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "ur"
+                },
+                {
+                    "title": "Afrikaans",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "af"
+                },
+                {
+                    "title": "Ελληνικά",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "el"
+                },
+                {
+                    "title": "فارسی",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "fa"
+                },
+                {
+                    "title": "Haitian Creole",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ht"
+                },
+                {
+                    "title": "മലയാളം",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ml"
+                },
+                {
+                    "title": "ਪੰਜਾਬੀ",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "pa"
+                },
+                {
+                    "title": "Runasimi",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "qu"
+                },
+                {
+                    "title": "Svenska",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "sv"
+                },
+                {
+                    "title": "Kiswahili",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "sw"
+                },
+                {
+                    "title": "తెలుగు",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "te"
+                },
+                {
+                    "title": "Tagalog",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "tl"
+                },
+                {
+                    "title": "Tiếng Việt",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "vi"
+                }
+            ]
+        },
+        {
+            "title": "Valoraciones",
+            "key": "ratings",
+            "options": [
+                {
+                    "title": "4,5 o más",
+                    "count": 3390,
+                    "key": "ratings",
+                    "value": "4.5"
+                },
+                {
+                    "title": "4,0 o más",
+                    "count": 5011,
+                    "key": "ratings",
+                    "value": "4.0"
+                },
+                {
+                    "title": "3,5 o más",
+                    "count": 5507,
+                    "key": "ratings",
+                    "value": "3.5"
+                },
+                {
+                    "title": "3,0 o más",
+                    "count": 5640,
+                    "key": "ratings",
+                    "value": "3.0"
+                }
+            ]
+        },
+        {
+            "title": "Duración del vídeo",
+            "key": "duration",
+            "options": [
+                {
+                    "title": "0-1 hora",
+                    "count": 1069,
+                    "key": "duration",
+                    "value": "extraShort"
+                },
+                {
+                    "title": "1-3 horas",
+                    "count": 3148,
+                    "key": "duration",
+                    "value": "short"
+                },
+                {
+                    "title": "Entre 3 y 6 horas",
+                    "count": 1416,
+                    "key": "duration",
+                    "value": "medium"
+                },
+                {
+                    "title": "6-17 horas",
+                    "count": 762,
+                    "key": "duration",
+                    "value": "long"
+                },
+                {
+                    "title": "17 horas o más",
+                    "count": 116,
+                    "key": "duration",
+                    "value": "extraLong"
+                }
+            ]
+        }
+    ]
+}

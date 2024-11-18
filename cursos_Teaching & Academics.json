@@ -1,0 +1,991 @@
+{
+    "count": 10000,
+    "next": "https://www.udemy.com/api-2.0/courses/?category=Teaching+%26+Academics&page=2&page_size=10",
+    "previous": null,
+    "results": [
+        {
+            "_class": "course",
+            "id": 5232162,
+            "title": "Cómo crear un curso de Udemy (Subtitulado)",
+            "url": "/course/como-crear-un-curso-de-udemy-subtitulado/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "N3zGOK4gThmOYiG6hbbc2A",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 137060,
+                    "title": "Udemy Instructor Team",
+                    "name": "Udemy",
+                    "display_name": "Udemy Instructor Team",
+                    "job_title": "Official Udemy Instructor Account",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/137060_54c1_14.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/137060_54c1_14.jpg",
+                    "initials": "UI",
+                    "url": "/user/udemymanager/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/5232162_cd9f_3.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/5232162_cd9f_3.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/5232162_cd9f_3.jpg",
+            "published_title": "como-crear-un-curso-de-udemy-subtitulado",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "La guía oficial para planificar, producir y publicar un curso en línea de alta calidad",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 5757626,
+            "title": "Curso de inglés total 2024 - Nive A1 (parte 1)",
+            "url": "/course/curso-de-ingles-total-2024-nive-a1-parte-1/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "1S8PjjbOSPeb0FWFQ8YHwA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 45390462,
+                    "title": "Albert Didier",
+                    "name": "Albert",
+                    "display_name": "Albert Didier",
+                    "job_title": "Masters Degree in Business and Financial Markets",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/45390462_44ae_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/45390462_44ae_2.jpg",
+                    "initials": "AD",
+                    "url": "/user/albert-didier/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/5757626_ed6b.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/5757626_ed6b.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/5757626_ed6b.jpg",
+            "published_title": "curso-de-ingles-total-2024-nive-a1-parte-1",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Domina el inglés desde cero hasta avanzado EN 2024, de forma fácil y rápida. Mi serie de cursos te ayudará a lograrlo",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 1441058,
+            "title": "Como Aprender Inglés Por Cuenta Propia Usando Internet",
+            "url": "/course/como-aprender-ingles-por-cuenta-propia-usando-internet/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "0wwV01K9SYyia4r0IU8jCg",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 3843488,
+                    "title": "Wilfredo Barrios",
+                    "name": "Wilfredo",
+                    "display_name": "Wilfredo Barrios",
+                    "job_title": "Tutor de Inglés",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/3843488_7fe5_3.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/3843488_7fe5_3.jpg",
+                    "initials": "WB",
+                    "url": "/user/wilbarrios/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/1441058_0143_3.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/1441058_0143_3.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/1441058_0143_3.jpg",
+            "published_title": "como-aprender-ingles-por-cuenta-propia-usando-internet",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende a sacarle el máximo provecho a Internet para aprender inglés",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 4772256,
+            "title": "Inglés: Aprende inglés facilmente traduciendo - Nivel B1/B2",
+            "url": "/course/ingles-aprende-ingles-facilmente-traduciendo-nivel-b1b2/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "mar7hJNoTLqVBjUtjzPHLA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 7262194,
+                    "title": "My Teacher Academy",
+                    "name": "My Teacher",
+                    "display_name": "My Teacher Academy",
+                    "job_title": "Your English Online",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/7262194_8848_10.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/7262194_8848_10.jpg",
+                    "initials": "MA",
+                    "url": "/user/davidabella/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/4772256_ede4_3.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/4772256_ede4_3.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/4772256_ede4_3.jpg",
+            "published_title": "ingles-aprende-ingles-facilmente-traduciendo-nivel-b1b2",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Educa a tu cerebro en inglés",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 6056153,
+            "title": "Curso de Inteligencia Artificial : Generación de Prompts",
+            "url": "/course/curso-de-inteligencia-artificial-generacion-de-prompts/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "Q0EW57WmRWSiEBEGaTiVmg",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 228413592,
+                    "title": "Cesar Alejandro Ferrer",
+                    "name": "Cesar Alejandro",
+                    "display_name": "Cesar Alejandro Ferrer",
+                    "job_title": "Licenciado en ciencias de la educación, profesor y autor.",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/228413592_72df_3.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/228413592_72df_3.jpg",
+                    "initials": "CF",
+                    "url": "/user/cesar-alejandro-ferrer/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/6056153_d5e3.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/6056153_d5e3.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/6056153_d5e3.jpg",
+            "published_title": "curso-de-inteligencia-artificial-generacion-de-prompts",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende a crear interacciones efectivas y optimizadas con modelos de IA",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 456302,
+            "title": "acoreanate curso coreano 1 online  para topik",
+            "url": "/course/acoreanate-para-topik-curso-i-online-korean-class-coreano/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "8KVKWFP7SL-w7fAPRC6zew",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 10246794,
+                    "title": "La Clase De Coreano  Korean Class",
+                    "name": "La Clase De Coreano ",
+                    "display_name": "La Clase De Coreano  Korean Class",
+                    "job_title": "Academia De Idioma Coreano",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/10246794_afd3.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/10246794_afd3.jpg",
+                    "initials": "LK",
+                    "url": "/user/54b67eb430d85/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/456302_7730_6.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/456302_7730_6.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/456302_7730_6.jpg",
+            "published_title": "acoreanate-para-topik-curso-i-online-korean-class-coreano",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "La mejor opción para aprender coreano en el lugar y el tiempo que quieras, podrás prepararte paraTOPIK en curso coreano ",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 2096652,
+            "title": "Introducción a la Comunicación No Verbal",
+            "url": "/course/introduccion-a-la-comunicacion-no-verbal/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "zqoNlHgmRcuS9PH3JOCvrA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 18509374,
+                    "title": "Fernando Rodríguez Talamantes",
+                    "name": "Fernando",
+                    "display_name": "Fernando Rodríguez Talamantes",
+                    "job_title": "Psicoterapeuta y Coach",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/18509374_3792_2.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/18509374_3792_2.jpg",
+                    "initials": "FR",
+                    "url": "/user/fercho-r/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/2096652_721e_3.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/2096652_721e_3.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/2096652_721e_3.jpg",
+            "published_title": "introduccion-a-la-comunicacion-no-verbal",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Comienza a descubrir las Emociones ocultas en los demás  a través de sus expresiones faciales y el lenguaje corporal.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 6125527,
+            "title": "Curso Integral de eLearning",
+            "url": "/course/curso-integral-de-elearning/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "2mobGhMVQT2SNIv4N2j_uw",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 74059598,
+                    "title": "Andres Torres",
+                    "name": "Andres",
+                    "display_name": "Andres Torres",
+                    "job_title": "Instructor Adobe Photoshop Premiere AfterEffects Audition",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/74059598_9f4c_2.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/74059598_9f4c_2.jpg",
+                    "initials": "AT",
+                    "url": "/user/andres-torres-59/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/6125527_7e6d.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/6125527_7e6d.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/6125527_7e6d.jpg",
+            "published_title": "curso-integral-de-elearning",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Domina el eLearning: Diseño, Desarrollo y Evaluación Efectiva",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 5769330,
+            "title": "Curso de inglés total 2024 - Nive A1 (parte 2)",
+            "url": "/course/curso-de-ingles-total-2024-nivel-a1-parte-2/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "Wql3iP2IQ0yeW1Glj2WSQg",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 45390462,
+                    "title": "Albert Didier",
+                    "name": "Albert",
+                    "display_name": "Albert Didier",
+                    "job_title": "Masters Degree in Business and Financial Markets",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/45390462_44ae_2.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/45390462_44ae_2.jpg",
+                    "initials": "AD",
+                    "url": "/user/albert-didier/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/5769330_ece1.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/5769330_ece1.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/5769330_ece1.jpg",
+            "published_title": "curso-de-ingles-total-2024-nivel-a1-parte-2",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Domina el inglés desde cero hasta avanzado EN 2024, de forma fácil y rápida. Mi serie de cursos te ayudará a lograrlo",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 5804218,
+            "title": "Curso de inglés total - Nive A2 a B1  (parte 1)",
+            "url": "/course/curso-de-ingles-total-2024-nive-a2-b1-parte-1/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "So93JKCxTGapdDVs6TNo2Q",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 45390462,
+                    "title": "Albert Didier",
+                    "name": "Albert",
+                    "display_name": "Albert Didier",
+                    "job_title": "Masters Degree in Business and Financial Markets",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/45390462_44ae_2.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/45390462_44ae_2.jpg",
+                    "initials": "AD",
+                    "url": "/user/albert-didier/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/5804218_8959.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/5804218_8959.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/5804218_8959.jpg",
+            "published_title": "curso-de-ingles-total-2024-nive-a2-b1-parte-1",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Domina el inglés nivel A2-B1 EN 2024, de forma fácil y rápida. Mi serie de cursos te ayudará a lograrlo rápidamente",
+            "instructor_name": null
+        }
+    ],
+    "aggregations": [
+        {
+            "title": "Precio",
+            "key": "price",
+            "options": [
+                {
+                    "title": "De pago",
+                    "count": 10000,
+                    "key": "price",
+                    "value": "price-paid"
+                },
+                {
+                    "title": "Gratis",
+                    "count": 3623,
+                    "key": "price",
+                    "value": "price-free"
+                }
+            ]
+        },
+        {
+            "title": "Nivel",
+            "key": "instructional_level",
+            "options": [
+                {
+                    "title": "Todos los niveles",
+                    "count": 10000,
+                    "key": "instructional_level",
+                    "value": "all"
+                },
+                {
+                    "title": "Principiante",
+                    "count": 10000,
+                    "key": "instructional_level",
+                    "value": "beginner"
+                },
+                {
+                    "title": "Intermedio",
+                    "count": 5313,
+                    "key": "instructional_level",
+                    "value": "intermediate"
+                },
+                {
+                    "title": "Experto",
+                    "count": 939,
+                    "key": "instructional_level",
+                    "value": "expert"
+                }
+            ]
+        },
+        {
+            "title": "Características",
+            "key": "features",
+            "options": [
+                {
+                    "title": "Subtítulos",
+                    "count": 10000,
+                    "key": "features",
+                    "value": "has_closed_caption"
+                },
+                {
+                    "title": "Cuestionarios",
+                    "count": 7441,
+                    "key": "features",
+                    "value": "has_simple_quiz"
+                },
+                {
+                    "title": "Ejercicios de codificación",
+                    "count": 29,
+                    "key": "features",
+                    "value": "has_coding_exercises"
+                },
+                {
+                    "title": "Exámenes de prueba",
+                    "count": 3215,
+                    "key": "features",
+                    "value": "has_practice_test"
+                }
+            ]
+        },
+        {
+            "title": "Idioma",
+            "key": "language",
+            "options": [
+                {
+                    "title": "English",
+                    "count": 10000,
+                    "key": "lang",
+                    "value": "en"
+                },
+                {
+                    "title": "Português",
+                    "count": 2738,
+                    "key": "lang",
+                    "value": "pt"
+                },
+                {
+                    "title": "Español",
+                    "count": 2569,
+                    "key": "lang",
+                    "value": "es"
+                },
+                {
+                    "title": "Türkçe",
+                    "count": 2352,
+                    "key": "lang",
+                    "value": "tr"
+                },
+                {
+                    "title": "العربية",
+                    "count": 1287,
+                    "key": "lang",
+                    "value": "ar"
+                },
+                {
+                    "title": "日本語",
+                    "count": 996,
+                    "key": "lang",
+                    "value": "ja"
+                },
+                {
+                    "title": "한국어",
+                    "count": 807,
+                    "key": "lang",
+                    "value": "ko"
+                },
+                {
+                    "title": "Français",
+                    "count": 695,
+                    "key": "lang",
+                    "value": "fr"
+                },
+                {
+                    "title": "Deutsch",
+                    "count": 547,
+                    "key": "lang",
+                    "value": "de"
+                },
+                {
+                    "title": "Italiano",
+                    "count": 439,
+                    "key": "lang",
+                    "value": "it"
+                },
+                {
+                    "title": "हिन्दी",
+                    "count": 361,
+                    "key": "lang",
+                    "value": "hi"
+                },
+                {
+                    "title": "Русский",
+                    "count": 320,
+                    "key": "lang",
+                    "value": "ru"
+                },
+                {
+                    "title": "中文",
+                    "count": 314,
+                    "key": "lang",
+                    "value": "zh"
+                },
+                {
+                    "title": "Indonesia",
+                    "count": 265,
+                    "key": "lang",
+                    "value": "id"
+                },
+                {
+                    "title": "Polski",
+                    "count": 234,
+                    "key": "lang",
+                    "value": "pl"
+                },
+                {
+                    "title": "Tiếng Việt",
+                    "count": 109,
+                    "key": "lang",
+                    "value": "vi"
+                },
+                {
+                    "title": "Română",
+                    "count": 107,
+                    "key": "lang",
+                    "value": "ro"
+                },
+                {
+                    "title": "اردو",
+                    "count": 59,
+                    "key": "lang",
+                    "value": "ur"
+                },
+                {
+                    "title": "தமிழ்",
+                    "count": 48,
+                    "key": "lang",
+                    "value": "ta"
+                },
+                {
+                    "title": "ไทย",
+                    "count": 47,
+                    "key": "lang",
+                    "value": "th"
+                },
+                {
+                    "title": "Nederlands",
+                    "count": 31,
+                    "key": "lang",
+                    "value": "nl"
+                },
+                {
+                    "title": "Magyar",
+                    "count": 28,
+                    "key": "lang",
+                    "value": "hu"
+                },
+                {
+                    "title": "Українська",
+                    "count": 26,
+                    "key": "lang",
+                    "value": "uk"
+                },
+                {
+                    "title": "Azərbaycan",
+                    "count": 19,
+                    "key": "lang",
+                    "value": "az"
+                },
+                {
+                    "title": "עברית",
+                    "count": 17,
+                    "key": "lang",
+                    "value": "he"
+                },
+                {
+                    "title": "বাংলা",
+                    "count": 15,
+                    "key": "lang",
+                    "value": "bn"
+                },
+                {
+                    "title": "తెలుగు",
+                    "count": 14,
+                    "key": "lang",
+                    "value": "te"
+                },
+                {
+                    "title": "Ελληνικά",
+                    "count": 13,
+                    "key": "lang",
+                    "value": "el"
+                },
+                {
+                    "title": "فارسی",
+                    "count": 12,
+                    "key": "lang",
+                    "value": "fa"
+                },
+                {
+                    "title": "မြန်မာ",
+                    "count": 12,
+                    "key": "lang",
+                    "value": "my"
+                },
+                {
+                    "title": "मराठी",
+                    "count": 11,
+                    "key": "lang",
+                    "value": "mr"
+                },
+                {
+                    "title": "Afrikaans",
+                    "count": 7,
+                    "key": "lang",
+                    "value": "af"
+                },
+                {
+                    "title": "Gaeilge",
+                    "count": 7,
+                    "key": "lang",
+                    "value": "ga"
+                },
+                {
+                    "title": "മലയാളം",
+                    "count": 7,
+                    "key": "lang",
+                    "value": "ml"
+                },
+                {
+                    "title": "ગુજરાતી",
+                    "count": 6,
+                    "key": "lang",
+                    "value": "gu"
+                },
+                {
+                    "title": "Norsk bokmål",
+                    "count": 6,
+                    "key": "lang",
+                    "value": "nb"
+                },
+                {
+                    "title": "Српски",
+                    "count": 6,
+                    "key": "lang",
+                    "value": "sr"
+                },
+                {
+                    "title": "Български",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "bg"
+                },
+                {
+                    "title": "Català",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "ca"
+                },
+                {
+                    "title": "Čeština",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "cs"
+                },
+                {
+                    "title": "Dansk",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "da"
+                },
+                {
+                    "title": "Melayu",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "ms"
+                },
+                {
+                    "title": "Shqip",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "sq"
+                },
+                {
+                    "title": "ქართული",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "ka"
+                },
+                {
+                    "title": "Slovenščina",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "sl"
+                },
+                {
+                    "title": "Svenska",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "sv"
+                },
+                {
+                    "title": "Kiswahili",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "sw"
+                },
+                {
+                    "title": "Tagalog",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "tl"
+                },
+                {
+                    "title": "Hrvatski",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "hr"
+                },
+                {
+                    "title": "ಕನ್ನಡ",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "kn"
+                },
+                {
+                    "title": "Kurdî",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "ku"
+                },
+                {
+                    "title": "Монгол",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "mn"
+                },
+                {
+                    "title": "Slovenčina",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "sk"
+                },
+                {
+                    "title": "Soomaali",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "so"
+                },
+                {
+                    "title": "O‘zbek",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "uz"
+                },
+                {
+                    "title": "Euskara",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "eu"
+                },
+                {
+                    "title": "Suomi",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "fi"
+                },
+                {
+                    "title": "Haitian Creole",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ht"
+                },
+                {
+                    "title": "Қазақ тілі",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "kk"
+                },
+                {
+                    "title": "नेपाली",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "ne"
+                },
+                {
+                    "title": "ਪੰਜਾਬੀ",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "pa"
+                },
+                {
+                    "title": "IsiZulu",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "zu"
+                }
+            ]
+        },
+        {
+            "title": "Valoraciones",
+            "key": "ratings",
+            "options": [
+                {
+                    "title": "4,5 o más",
+                    "count": 10000,
+                    "key": "ratings",
+                    "value": "4.5"
+                },
+                {
+                    "title": "4,0 o más",
+                    "count": 10000,
+                    "key": "ratings",
+                    "value": "4.0"
+                },
+                {
+                    "title": "3,5 o más",
+                    "count": 10000,
+                    "key": "ratings",
+                    "value": "3.5"
+                },
+                {
+                    "title": "3,0 o más",
+                    "count": 10000,
+                    "key": "ratings",
+                    "value": "3.0"
+                }
+            ]
+        },
+        {
+            "title": "Duración del vídeo",
+            "key": "duration",
+            "options": [
+                {
+                    "title": "0-1 hora",
+                    "count": 6863,
+                    "key": "duration",
+                    "value": "extraShort"
+                },
+                {
+                    "title": "1-3 horas",
+                    "count": 10000,
+                    "key": "duration",
+                    "value": "short"
+                },
+                {
+                    "title": "Entre 3 y 6 horas",
+                    "count": 6688,
+                    "key": "duration",
+                    "value": "medium"
+                },
+                {
+                    "title": "6-17 horas",
+                    "count": 5360,
+                    "key": "duration",
+                    "value": "long"
+                },
+                {
+                    "title": "17 horas o más",
+                    "count": 1633,
+                    "key": "duration",
+                    "value": "extraLong"
+                }
+            ]
+        }
+    ]
+}

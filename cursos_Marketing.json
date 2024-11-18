@@ -1,0 +1,913 @@
+{
+    "count": 10000,
+    "next": "https://www.udemy.com/api-2.0/courses/?category=Marketing&page=2&page_size=10",
+    "previous": null,
+    "results": [
+        {
+            "_class": "course",
+            "id": 5592250,
+            "title": "Marketing Digital: Sistema para Crecer Negocios + ChatGPT",
+            "url": "/course/marketing-digital-sistema-para-crecer-negocios-chatgpt/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "_2sZmBxsTV2pXVvwBJgiBQ",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 33907546,
+                    "title": "Federico Rodriguez",
+                    "name": "Federico",
+                    "display_name": "Federico Rodriguez",
+                    "job_title": "Experto en sistemas de crecimiento",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/33907546_34e5_6.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/33907546_34e5_6.jpg",
+                    "initials": "FR",
+                    "url": "/user/federico-rodriguez-8/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/5592250_941b_2.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/5592250_941b_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/5592250_941b_2.jpg",
+            "published_title": "marketing-digital-sistema-para-crecer-negocios-chatgpt",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_MX",
+                "title": "Español (México)",
+                "english_title": "Spanish (Mexico)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Maximizá tu crecimiento con Marketing Digital con Estrategias de contenido, Diseño, Inteligencia Artificial, Publicidad.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 2632594,
+            "title": "Google Ads para Principiantes (Adwords)",
+            "url": "/course/google-ads-para-principiantes/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "z0Ap8gKdSjG3lXQlWC1sqQ",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 801404,
+                    "title": "Diego Davila • 800.000+ Students",
+                    "name": "Diego Davila",
+                    "display_name": "Diego Davila • 800.000+ Students",
+                    "job_title": "Entrepreneur and Social Media Innovator",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/801404_1ceb_19.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/801404_1ceb_19.jpg",
+                    "initials": "D ",
+                    "url": "/user/diego-davila/"
+                },
+                {
+                    "_class": "user",
+                    "id": 23102868,
+                    "title": "Backyard Courses",
+                    "name": "Backyard",
+                    "display_name": "Backyard Courses",
+                    "job_title": "Your Online Academy",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/23102868_9935_8.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/23102868_9935_8.jpg",
+                    "initials": "BC",
+                    "url": "/user/internet-revolution/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/2632594_ff6f_6.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/2632594_ff6f_6.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/2632594_ff6f_6.jpg",
+            "published_title": "google-ads-para-principiantes",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Cree anuncios con Google Ads y promocione su negocio, productos y servicios en Google y YouTube.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 2422440,
+            "title": "Automatización de Marketing: Menos Trabajo + Ventas",
+            "url": "/course/automatizacion-de-marketing/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "TPjxvXQ6RvWfJCgxoMXPBA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 47948440,
+                    "title": "Daniel López",
+                    "name": "Daniel",
+                    "display_name": "Daniel López",
+                    "job_title": "Máster en Marketing Digital",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/47948440_cd57.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/47948440_cd57.jpg",
+                    "initials": "DL",
+                    "url": "/user/daniel-lopez-64/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/2422440_996e.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/2422440_996e.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/2422440_996e.jpg",
+            "published_title": "automatizacion-de-marketing",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_CO",
+                "title": "Español (Colombia)",
+                "english_title": "Spanish (Colombia)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Incrementa tu alcance, segmenta, personaliza y mejora la relación con miles de clientes al mismo tiempo",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 2707538,
+            "title": "Entrenamiento Gratuito de Negocios por Instagram",
+            "url": "/course/entrenamiento-gratuito-de-instagram-samurais-digitales/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "kMnGk-aKT-qGeMQicQNe_g",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 97351266,
+                    "title": "Agustin Rossi",
+                    "name": "Agustin",
+                    "display_name": "Agustin Rossi",
+                    "job_title": "Coach de mercadeo digital y mentalidad",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/97351266_d513_3.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/97351266_d513_3.jpg",
+                    "initials": "AR",
+                    "url": "/user/agustin-rossi-6/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/2707538_0f99_3.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/2707538_0f99_3.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/2707538_0f99_3.jpg",
+            "published_title": "entrenamiento-gratuito-de-instagram-samurais-digitales",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Mercadeo Digital",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 6119145,
+            "title": "Gestiona tus Redes Sociales con Meta Business Suite",
+            "url": "/course/meta-business-suite-para-instagram-y-facebook/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "T-Af6AbXQV2SAtaUs-MI-g",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 114347950,
+                    "title": "Maria Leticia Ditrani",
+                    "name": "Maria Leticia",
+                    "display_name": "Maria Leticia Ditrani",
+                    "job_title": "Magister en Marketing Digital - Community Canvassador Canva",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/114347950_ec57_6.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/114347950_ec57_6.jpg",
+                    "initials": "MD",
+                    "url": "/user/maria-leticia-ditrani/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/6119145_2c4a_3.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/6119145_2c4a_3.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/6119145_2c4a_3.jpg",
+            "published_title": "meta-business-suite-para-instagram-y-facebook",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende a Gestionar todas las herramientas para programar contenido y trabajar con la Suite Gratuita de Meta",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 4468626,
+            "title": "Guía definitiva para crecer en Instagram",
+            "url": "/course/guia-definitiva-para-crecer-en-instagram/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "rWEl6zHASk2GHtbRTmx7XA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 33907546,
+                    "title": "Federico Rodriguez",
+                    "name": "Federico",
+                    "display_name": "Federico Rodriguez",
+                    "job_title": "Experto en sistemas de crecimiento",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/33907546_34e5_6.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/33907546_34e5_6.jpg",
+                    "initials": "FR",
+                    "url": "/user/federico-rodriguez-8/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/4468626_f747_4.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/4468626_f747_4.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/4468626_f747_4.jpg",
+            "published_title": "guia-definitiva-para-crecer-en-instagram",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprenderás los 5 pasos fundamentales para crecer en Instagram. Las estrategias más avanzadas de Marketing Digital.",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 2579252,
+            "title": "Curso Basico GRATIS: CHATBOT para VENDER en WHATSAPP",
+            "url": "/course/chatbot-whatsapp/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "_s_exhgTTGWIKtPr7odqEQ",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 66487126,
+                    "title": "Emmanuel Gomez Gil",
+                    "name": "Emmanuel",
+                    "display_name": "Emmanuel Gomez Gil",
+                    "job_title": "Administrador de Empresas",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/66487126_64d3_6.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/66487126_64d3_6.jpg",
+                    "initials": "EG",
+                    "url": "/user/emmanuel-gomez-gil/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/2579252_555e_2.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/2579252_555e_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/2579252_555e_2.jpg",
+            "published_title": "chatbot-whatsapp",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "El futuro de la ventas",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 5938154,
+            "title": "Planifica el contenido TRIMESTRAL de Tu NEGOCIO",
+            "url": "/course/planifica-el-contenido-trimestral-de-tu-negocio/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "_jCE-T5DShK_sjYMj85ZZg",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 114347950,
+                    "title": "Maria Leticia Ditrani",
+                    "name": "Maria Leticia",
+                    "display_name": "Maria Leticia Ditrani",
+                    "job_title": "Magister en Marketing Digital - Community Canvassador Canva",
+                    "image_50x50": "https://img-b.udemycdn.com/user/50x50/114347950_ec57_6.jpg",
+                    "image_100x100": "https://img-b.udemycdn.com/user/100x100/114347950_ec57_6.jpg",
+                    "initials": "MD",
+                    "url": "/user/maria-leticia-ditrani/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/5938154_7ca4.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/5938154_7ca4.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/5938154_7ca4.jpg",
+            "published_title": "planifica-el-contenido-trimestral-de-tu-negocio",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aplica esta estrategia para poner foco, orden y planificación al contenido de las redes sociales de tu negocio",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 6132759,
+            "title": "Tu Despegue: Inicia tu Viaje como  Community Manager",
+            "url": "/course/tu-viaje-como-community-manager/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "iAkxnJ3hQPy2A9rFh5zzWA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 114347950,
+                    "title": "Maria Leticia Ditrani",
+                    "name": "Maria Leticia",
+                    "display_name": "Maria Leticia Ditrani",
+                    "job_title": "Magister en Marketing Digital - Community Canvassador Canva",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/114347950_ec57_6.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/114347950_ec57_6.jpg",
+                    "initials": "MD",
+                    "url": "/user/maria-leticia-ditrani/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/6132759_80ab_2.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/6132759_80ab_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/6132759_80ab_2.jpg",
+            "published_title": "tu-viaje-como-community-manager",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_LA",
+                "title": "Español",
+                "english_title": "Spanish",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Aprende a gestionar redes sociales de manera profesional",
+            "instructor_name": null
+        },
+        {
+            "_class": "course",
+            "id": 1493134,
+            "title": "Neuromarketing Aplicado al Marketing Digital",
+            "url": "/course/neuromarketing-aplicado-al-marketing-digital/",
+            "is_paid": false,
+            "price": "Gratis",
+            "price_detail": null,
+            "price_serve_tracking_id": "AeKx1Y4_RhWA6ts4tYXlKA",
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": 35582440,
+                    "title": "Diego Ramos",
+                    "name": "Diego",
+                    "display_name": "Diego Ramos",
+                    "job_title": "Especialista en Neuromarketing, Neuroventas y Neurocoaching",
+                    "image_50x50": "https://img-c.udemycdn.com/user/50x50/35582440_c894.jpg",
+                    "image_100x100": "https://img-c.udemycdn.com/user/100x100/35582440_c894.jpg",
+                    "initials": "DR",
+                    "url": "/user/23a0210a-dc0f-4c4d-9997-8fbeb5ceb044/"
+                }
+            ],
+            "image_125_H": "https://img-b.udemycdn.com/course/125_H/1493134_6675_2.jpg",
+            "image_240x135": "https://img-b.udemycdn.com/course/240x135/1493134_6675_2.jpg",
+            "is_practice_test_course": false,
+            "image_480x270": "https://img-b.udemycdn.com/course/480x270/1493134_6675_2.jpg",
+            "published_title": "neuromarketing-aplicado-al-marketing-digital",
+            "tracking_id": "",
+            "locale": {
+                "_class": "locale",
+                "locale": "es_ES",
+                "title": "Español (España)",
+                "english_title": "Spanish (Spain)",
+                "simple_english_title": "Spanish"
+            },
+            "predictive_score": null,
+            "relevancy_score": null,
+            "input_features": null,
+            "lecture_search_result": null,
+            "curriculum_lectures": [],
+            "order_in_results": null,
+            "curriculum_items": [],
+            "headline": "Revolucionando el Marketing Digital a partir de la Neurociencia",
+            "instructor_name": null
+        }
+    ],
+    "aggregations": [
+        {
+            "title": "Precio",
+            "key": "price",
+            "options": [
+                {
+                    "title": "De pago",
+                    "count": 10000,
+                    "key": "price",
+                    "value": "price-paid"
+                },
+                {
+                    "title": "Gratis",
+                    "count": 1797,
+                    "key": "price",
+                    "value": "price-free"
+                }
+            ]
+        },
+        {
+            "title": "Nivel",
+            "key": "instructional_level",
+            "options": [
+                {
+                    "title": "Todos los niveles",
+                    "count": 6583,
+                    "key": "instructional_level",
+                    "value": "all"
+                },
+                {
+                    "title": "Principiante",
+                    "count": 5215,
+                    "key": "instructional_level",
+                    "value": "beginner"
+                },
+                {
+                    "title": "Intermedio",
+                    "count": 1007,
+                    "key": "instructional_level",
+                    "value": "intermediate"
+                },
+                {
+                    "title": "Experto",
+                    "count": 166,
+                    "key": "instructional_level",
+                    "value": "expert"
+                }
+            ]
+        },
+        {
+            "title": "Características",
+            "key": "features",
+            "options": [
+                {
+                    "title": "Subtítulos",
+                    "count": 8354,
+                    "key": "features",
+                    "value": "has_closed_caption"
+                },
+                {
+                    "title": "Cuestionarios",
+                    "count": 1876,
+                    "key": "features",
+                    "value": "has_simple_quiz"
+                },
+                {
+                    "title": "Ejercicios de codificación",
+                    "count": 2,
+                    "key": "features",
+                    "value": "has_coding_exercises"
+                },
+                {
+                    "title": "Exámenes de prueba",
+                    "count": 345,
+                    "key": "features",
+                    "value": "has_practice_test"
+                }
+            ]
+        },
+        {
+            "title": "Idioma",
+            "key": "language",
+            "options": [
+                {
+                    "title": "English",
+                    "count": 6493,
+                    "key": "lang",
+                    "value": "en"
+                },
+                {
+                    "title": "日本語",
+                    "count": 1132,
+                    "key": "lang",
+                    "value": "ja"
+                },
+                {
+                    "title": "Português",
+                    "count": 1079,
+                    "key": "lang",
+                    "value": "pt"
+                },
+                {
+                    "title": "Español",
+                    "count": 791,
+                    "key": "lang",
+                    "value": "es"
+                },
+                {
+                    "title": "Deutsch",
+                    "count": 526,
+                    "key": "lang",
+                    "value": "de"
+                },
+                {
+                    "title": "Français",
+                    "count": 508,
+                    "key": "lang",
+                    "value": "fr"
+                },
+                {
+                    "title": "العربية",
+                    "count": 462,
+                    "key": "lang",
+                    "value": "ar"
+                },
+                {
+                    "title": "中文",
+                    "count": 439,
+                    "key": "lang",
+                    "value": "zh"
+                },
+                {
+                    "title": "Türkçe",
+                    "count": 311,
+                    "key": "lang",
+                    "value": "tr"
+                },
+                {
+                    "title": "Italiano",
+                    "count": 280,
+                    "key": "lang",
+                    "value": "it"
+                },
+                {
+                    "title": "हिन्दी",
+                    "count": 175,
+                    "key": "lang",
+                    "value": "hi"
+                },
+                {
+                    "title": "Русский",
+                    "count": 173,
+                    "key": "lang",
+                    "value": "ru"
+                },
+                {
+                    "title": "Indonesia",
+                    "count": 152,
+                    "key": "lang",
+                    "value": "id"
+                },
+                {
+                    "title": "Polski",
+                    "count": 101,
+                    "key": "lang",
+                    "value": "pl"
+                },
+                {
+                    "title": "한국어",
+                    "count": 87,
+                    "key": "lang",
+                    "value": "ko"
+                },
+                {
+                    "title": "اردو",
+                    "count": 63,
+                    "key": "lang",
+                    "value": "ur"
+                },
+                {
+                    "title": "Tiếng Việt",
+                    "count": 47,
+                    "key": "lang",
+                    "value": "vi"
+                },
+                {
+                    "title": "বাংলা",
+                    "count": 20,
+                    "key": "lang",
+                    "value": "bn"
+                },
+                {
+                    "title": "Română",
+                    "count": 18,
+                    "key": "lang",
+                    "value": "ro"
+                },
+                {
+                    "title": "Nederlands",
+                    "count": 16,
+                    "key": "lang",
+                    "value": "nl"
+                },
+                {
+                    "title": "עברית",
+                    "count": 14,
+                    "key": "lang",
+                    "value": "he"
+                },
+                {
+                    "title": "Українська",
+                    "count": 14,
+                    "key": "lang",
+                    "value": "uk"
+                },
+                {
+                    "title": "தமிழ்",
+                    "count": 12,
+                    "key": "lang",
+                    "value": "ta"
+                },
+                {
+                    "title": "ไทย",
+                    "count": 9,
+                    "key": "lang",
+                    "value": "th"
+                },
+                {
+                    "title": "മലയാളം",
+                    "count": 6,
+                    "key": "lang",
+                    "value": "ml"
+                },
+                {
+                    "title": "မြန်မာ",
+                    "count": 5,
+                    "key": "lang",
+                    "value": "my"
+                },
+                {
+                    "title": "Azərbaycan",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "az"
+                },
+                {
+                    "title": "मराठी",
+                    "count": 4,
+                    "key": "lang",
+                    "value": "mr"
+                },
+                {
+                    "title": "Ελληνικά",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "el"
+                },
+                {
+                    "title": "ქართული",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "ka"
+                },
+                {
+                    "title": "Melayu",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "ms"
+                },
+                {
+                    "title": "తెలుగు",
+                    "count": 3,
+                    "key": "lang",
+                    "value": "te"
+                },
+                {
+                    "title": "فارسی",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "fa"
+                },
+                {
+                    "title": "Hrvatski",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "hr"
+                },
+                {
+                    "title": "Magyar",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "hu"
+                },
+                {
+                    "title": "Српски",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "sr"
+                },
+                {
+                    "title": "Tagalog",
+                    "count": 2,
+                    "key": "lang",
+                    "value": "tl"
+                },
+                {
+                    "title": "Български",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "bg"
+                },
+                {
+                    "title": "Čeština",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "cs"
+                },
+                {
+                    "title": "Қазақ тілі",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "kk"
+                },
+                {
+                    "title": "ខ្មែរ",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "km"
+                },
+                {
+                    "title": "Lietuvių",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "lt"
+                },
+                {
+                    "title": "Latviešu",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "lv"
+                },
+                {
+                    "title": "Македонски",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "mk"
+                },
+                {
+                    "title": "Slovenčina",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "sk"
+                },
+                {
+                    "title": "Soomaali",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "so"
+                },
+                {
+                    "title": "Shqip",
+                    "count": 1,
+                    "key": "lang",
+                    "value": "sq"
+                }
+            ]
+        },
+        {
+            "title": "Valoraciones",
+            "key": "ratings",
+            "options": [
+                {
+                    "title": "4,5 o más",
+                    "count": 3893,
+                    "key": "ratings",
+                    "value": "4.5"
+                },
+                {
+                    "title": "4,0 o más",
+                    "count": 8326,
+                    "key": "ratings",
+                    "value": "4.0"
+                },
+                {
+                    "title": "3,5 o más",
+                    "count": 10000,
+                    "key": "ratings",
+                    "value": "3.5"
+                },
+                {
+                    "title": "3,0 o más",
+                    "count": 10000,
+                    "key": "ratings",
+                    "value": "3.0"
+                }
+            ]
+        },
+        {
+            "title": "Duración del vídeo",
+            "key": "duration",
+            "options": [
+                {
+                    "title": "0-1 hora",
+                    "count": 2625,
+                    "key": "duration",
+                    "value": "extraShort"
+                },
+                {
+                    "title": "1-3 horas",
+                    "count": 5929,
+                    "key": "duration",
+                    "value": "short"
+                },
+                {
+                    "title": "Entre 3 y 6 horas",
+                    "count": 2622,
+                    "key": "duration",
+                    "value": "medium"
+                },
+                {
+                    "title": "6-17 horas",
+                    "count": 1476,
+                    "key": "duration",
+                    "value": "long"
+                },
+                {
+                    "title": "17 horas o más",
+                    "count": 321,
+                    "key": "duration",
+                    "value": "extraLong"
+                }
+            ]
+        }
+    ]
+}
