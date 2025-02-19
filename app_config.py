@@ -1,0 +1,105 @@
+import os
+
+service_config = {
+    "log_services": "/app/log/service_file.log",
+    "log_formacion_schedule": "/app/log/formacion.log",
+    "log_procedure_schedule": "/app/log/procedure.log",
+    "log_general_schedule": "/app/log/general.log",
+    "log_clean_schedule": "/app/log/clean.log",
+    "validados": "Todos los datos han sido validados correctamente.",
+    "invalidos": "Ha fallado la validacion.",
+    "MOCKOON_HOST": "localhost:3001",
+    "max_responses": 10,
+    "max_text_length": 750,
+    "boost_assistant_keywords": 7,
+    "boost_competence_name": 5,
+    "boost_competence_subcategory": 2,
+    "levels": {"Básico", "Intermedio", "Avanzado"},
+    "index_name": {
+        "competences": {
+            "es": "index_moodle_es",
+            "en": "index_moodle_en",
+            "fr": "index_moodle_fr",
+            "ca": "index_moodle_ca",
+            "eu": "index_moodle_eu",
+            "gl": "index_moodle_gl",
+        },
+        "training": {
+            "es": "index_moodle_es",
+            "en": "index_moodle_en",
+            "fr": "index_moodle_fr",
+            "ca": "index_moodle_ca",
+            "eu": "index_moodle_eu",
+            "gl": "index_moodle_gl",
+        },
+        "general_content": {
+            "es": "index_general_interno_es",
+            "en": "index_general_interno_en",
+            "fr": "index_general_interno_fr",
+            "ca": "index_general_interno_ca",
+            "eu": "index_general_interno_eu",
+            "gl": "index_general_interno_gl",
+        },
+        "procedure": {
+            "es": "index_procedure_es",
+            "en": "index_procedure_en",
+            "fr": "index_procedure_fr",
+            "ca": "index_procedure_ca",
+            "eu": "index_procedure_eu",
+            "gl": "index_procedure_gl",
+        },
+    },
+    "languages": {
+        "spanish": "es",
+        "french": "fr",
+        "english": "en",
+        "basque": "eu",
+        "galician": "gl",
+        "catalan": "ca",
+    },
+    "words": {
+        "spanish": "formación",
+        "french": "formation",
+        "english": "training",
+    },
+    "busqueda_exitosa": "Búsqueda exitosa",
+    "application_json": "application/json",
+    "url_status_code": "https://fastapi.tiangolo.com/tutorial/response-status-code/#changing-the-default",
+    "url_endpoint_assistant": "/search/assistant",
+    "url_endpoint_competences": "/search/competences",
+    "no_resultados": "No se encontraron resultados para la busqueda",
+}
+
+environment_config = {
+    "ELASTIC_HOST": os.getenv("ELASTIC_URL", "http://localhost:9200"),
+    "ELASTIC_API_KEY": os.getenv("SECRET_ELASTIC_API_KEY"),
+    "KEYCLOAK_SERVER": os.getenv("KEYCLOAK_URL", "http://localhost:8080"),
+    "KEYCLOAK_CLIENT_ID": os.getenv("KEYCLOAK_CLIENT_ID", "default-client-id"),
+    "KEYCLOAK_REALM": os.getenv("KEYCLOAK_REALM", "default-realm"),
+    "KEYCLOAK_CLIENT_SECRET": os.getenv("KEYCLOAK_CLIENT_SECRET"),
+    "COMPETENCES_RUTE": os.getenv(
+        "CONPETENCE_ROUTE", "http://localhost:8000/search/competences/"
+    ),
+    "ALL_ASSISTANT_RUTE": os.getenv(
+        "ALL_ASSITANTE_ROUTE", "http://localhost:8000/search/assistant/all"
+    ),
+    "ASSISTANT_RUTE": os.getenv(
+        "ASSITANTE_ROUTE", "http://localhost:8000/search/assistant/"
+    ),
+    "UVICORN_LOGGING_LEVEL": os.getenv("UVICORN_LOGGING_LEVEL", "DEBUG").lower(),
+    "INDEX_LOGGING_LEVEL": os.getenv("INDEX_LOGGING_LEVEL", "INFO").upper(),
+    "CONSOLE_LOGGING_LEVEL": os.getenv("CONSOLE_LOGGING_LEVEL", "DEBUG").upper(),
+    "FILE_LOGGING_LEVEL": os.getenv("FILE_LOGGING_LEVEL", "INFO").upper(),
+    "BACKUP_COUNT_LOGGING_FILE": os.getenv("BACKUP_COUNT_LOGGING_FILE", 5),
+    "LOGGING_FILE_SIZE": os.getenv("LOGGING_FILE_SIZE", 10),
+    "ELASTICSEARCH_INDEX_LOG": os.getenv("ELASTICSEARCH_INDEX_LOG", "services_logs"),
+    "VERIFY_CERTS": os.getenv("VERIFY_CERTS", "False").lower() in ("true", "1", "t"),
+    "SSL_SHOW_WARN": os.getenv("SSL_SHOW_WARN", "False").lower() in ("true", "1", "t"),
+    "MOODLE_URL": os.getenv("MOODLE_URL", "http://localhost:3001/"),
+    "MOODLE_API_KEY": os.getenv("MOODLE_API_KEY"),
+    "XWIKI_URL": os.getenv("XWIKI_URL", "http://localhost:3001/"),
+    "XWIKI_API_KEY": os.getenv("XWIKI_API_KEY"),
+    "CERT_PATH": os.getenv("CERT_PATH", "/etc/pki/tls/cert"),
+    "CERT_PATH_FILE": os.getenv("CERT_PATH_FILE", "/etc/pki/tls/cert/ca.crt"),
+    "TIMEOUT": os.getenv("TIMEOUT", 10),
+}
