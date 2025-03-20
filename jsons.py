@@ -25,8 +25,8 @@ for filename in os.listdir(json_folder):
                 course_info = {
                     "id": course.get("id"),
                     "title": course.get("title"),
-                    "url": udemy_base_url
-                    + course.get("url", ""),  # Concatenar la URL base
+                    "headline": course.get("headline"),  # Agregar el headline
+                    "url": udemy_base_url + course.get("url", ""),  # Concatenar la URL base
                     "price": course.get("price"),
                     "category": category,  # Agregar la categoría basada en el archivo
                     "instructors": [

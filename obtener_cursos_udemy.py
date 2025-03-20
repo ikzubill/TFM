@@ -1,44 +1,40 @@
 import requests
 import json
 
+# Definir el token de acceso
 access_token = "VtgO9rJR19PPDjJqntH1MaWtxPSRTIwwq1dCAQbuqOg:WClKPz1/OwZbLognk+azICW1/xJBj0UwbXxNjEq8DK8"
 
+# Lista de categorías que devuelven:
 
-def obtener_cursos(limit=1100):
-    url = "https://www.udemy.com/api-2.0/courses/"
+
+# Lista de categorías que NO devuelven:
+# categorias = [
+#     "Arts", "Language Learning", "Science", "Engineering",
+#     "Social Sciences", "Software Development", "Data Science", "Game Development",
+#     "Cybersecurity", "Sales", "Artificial Intelligence", "Web Development",
+#     "Video Editing", "Communication", "Photography", "Finance", "Photography"
+# ]
+
+
+# Función para realizar las llamadas a la API
+def obtener_cursos_por_categoria(categoria, page_size=10):
+    url = f"https://www.udemy.com/api-2.0/courses/"
     headers = {"Authorization": f"Bearer {access_token}"}
-    todos_cursos = []
-    next_url = url
-    total_cursos = 0
+    params = {"page_size": page_size, "category": categoria}
 
-    while next_url and total_cursos < limit:
-        response = requests.get(next_url, headers=headers, params={"page_size": 100})
+    response = requests.get(url, headers=headers, params=params)
 
-        if response.status_code != 200:
-            print("Error:", response.status_code, response.json())
-            return  # Termina si hay un error en la respuesta
-
+    # Comprobamos el estado de la respuesta
+    if response.status_code == 200:
         data = response.json()
-
-        # Verificar si 'results' está vacío
-        if "results" not in data or not data["results"]:
-            print(
-                "No se encontraron cursos en esta página o estructura de datos inesperada."
-            )
-            break
-
-        todos_cursos.extend(data["results"])
-        total_cursos += len(data["results"])
-
-        next_url = data.get("next")
-
-    # Guardar todos los cursos en un archivo JSON
-    with open("1100_cursos_udemy1.json", "w", encoding="utf-8") as f:
-        json.dump(todos_cursos, f, ensure_ascii=False, indent=4)
-
-    print(f"Se han obtenido un total de {total_cursos} cursos.")
-    return todos_cursos
-
-
-# Ejecuta la función
-obtener_cursos()
+        if data["count"] > 0:
+            # Guardar el resultado en un archivo JSON
+            with open(f"cursos_{categoria}.json", "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=4)
+            print(f"Cursos encontrados para la categoría {categoria}.")
+        else:
+            print(f"No se encontraron cursos para la categoría {categoria}.")
+    else:
+        print(
+            f"Error con la categoría {categoria}. Código de estado: {response.status_code}"
+        )

@@ -2,6 +2,7 @@
     {
         "id": 2507614,
         "title": "Curso: Aprender como hacer gráficos en Excel y Power BI",
+        "headline": "Curso gratis Excel y Power BI (2019) Tutorial con prácticas para crear reportes y gráficos en Microsoft Power BI y Excel",
         "url": "https://www.udemy.com/course/curso-gratis-tutorial-microsoft-excel-power-bi-aprender-hacer-graficos/",
         "price": "Gratis",
         "category": "Business",
@@ -13,6 +14,7 @@
     {
         "id": 2615250,
         "title": "Microsoft Power BI - Tutorial de Introducción a Power BI",
+        "headline": "Curso de Power BI nivel básico - Crea tu primer dashboard con Microsoft Power BI - ¡Power BI Desktop es gratis!",
         "url": "https://www.udemy.com/course/tutorial-power-bi/",
         "price": "Gratis",
         "category": "Business",
@@ -24,6 +26,7 @@
     {
         "id": 2786834,
         "title": "Microsoft Power BI - Curso de DAX en Power BI Desktop",
+        "headline": "Fundamentos de DAX en Power BI - Formación para principiantes en Microsoft Power BI",
         "url": "https://www.udemy.com/course/dax-power-bi/",
         "price": "Gratis",
         "category": "Business",
@@ -35,6 +38,7 @@
     {
         "id": 3543714,
         "title": "Curso Power BI - Crea un Dashboard desde cero",
+        "headline": "Curso de Power BI gratis para crear un dashboard paso a paso utilizando Power Query, Dax, modelado de datos y gráficos",
         "url": "https://www.udemy.com/course/curso-power-bi-gratis-crea-un-dashboard-desde-cero/",
         "price": "Gratis",
         "category": "Business",
@@ -45,6 +49,7 @@
     {
         "id": 6125927,
         "title": "Domina Power BI: 10 Proyectos Prácticos para Visualización",
+        "headline": "Domina Power BI con 10 Proyectos Prácticos para Visualización de Datos, DAX y Business Intelligence",
         "url": "https://www.udemy.com/course/curso-power-bi-con-proyectos-en-espanol/",
         "price": "34,99 €",
         "category": "Business",
@@ -55,6 +60,7 @@
     {
         "id": 97280,
         "title": "Metodología de la Investigación y Proyectos",
+        "headline": "Abre las maravillosas puertas del conocimiento y la investigación al estudiante universitario y preuniversitario.",
         "url": "https://www.udemy.com/course/metodologiadelainvestigacion/",
         "price": "Gratis",
         "category": "Business",
@@ -66,6 +72,7 @@
     {
         "id": 5659818,
         "title": "Introducción a ChatGPT 4 para Funciones DAX en Power BI",
+        "headline": "Domina la IA Generativa con ChatGPT 4: Casos de uso en Análisis de datos",
         "url": "https://www.udemy.com/course/curso-ia-generativa-funciones-dax-en-power-bi-y-chatgpt/",
         "price": "Gratis",
         "category": "Business",
@@ -78,6 +85,7 @@
     {
         "id": 6118499,
         "title": "Como iniciar un Podcast Desde 0 - Tu primer podcast pasopaso",
+        "headline": "Inicia tu primer podcast o mejora el que ya tienes con nuestro curso paso a paso.",
         "url": "https://www.udemy.com/course/como-iniciar-un-podcast-desde-cero-tu-primer-podcast-pasopaso/",
         "price": "Gratis",
         "category": "Business",
@@ -88,6 +96,7 @@
     {
         "id": 3045886,
         "title": "Crea tu Plan de Marca Personal",
+        "headline": "Si las personas te conocen y confían en ti, te comprarán y ayudarán a conseguir oportunidades de negocio!!",
         "url": "https://www.udemy.com/course/como-crear-tu-plan-de-marca-personal/",
         "price": "Gratis",
         "category": "Business",
@@ -98,6 +107,7 @@
     {
         "id": 4368490,
         "title": "Curso Básico de Microsoft Excel  - Funciones, Atajos y Mas",
+        "headline": "Aprende a usar las funciones esenciales de Excel, Graficas, Tablas dinámicas y formatos condicionales",
         "url": "https://www.udemy.com/course/curso-basico-de-microsoft-excel-funciones-atajos-y-mas/",
         "price": "Gratis",
         "category": "Business",
@@ -108,6 +118,7 @@
     {
         "id": 814594,
         "title": "Aprende HTML5 y CSS3 desde cero",
+        "headline": "Construye sitios web desde cero aprendiendo el lenguaje de marcado HTML5 y el lenguaje de estilos CSS3",
         "url": "https://www.udemy.com/course/aprende-html5-y-css3-desde-cero/",
         "price": "Gratis",
         "category": "Design",
@@ -118,6 +129,7 @@
     {
         "id": 5953614,
         "title": "Introducción teórica al Diseño UX/UI",
+        "headline": "Descubre los fundamentos y Procesos básicos del Diseño UX/UI",
         "url": "https://www.udemy.com/course/introduccion-al-diseno-uxui/",
         "price": "Gratis",
         "category": "Design",
@@ -129,6 +141,7 @@
     {
         "id": 3493158,
         "title": "Introducción a Figma 2024",
+        "headline": "Conoce y aprende desde cero cómo utilizar Figma y las herramientas para diseñar interfaces con Figma en este 2023",
         "url": "https://www.udemy.com/course/figma-diseno-de-prototipos-desde-cero/",
         "price": "Gratis",
         "category": "Design",
@@ -140,6 +153,7 @@
     {
         "id": 3294068,
         "title": "Figma tutorial - Diseña una página web con Figma 2022",
+        "headline": "Aprende a diseñar una página web atractiva con Figma",
         "url": "https://www.udemy.com/course/disena-una-increible-pagina-web-con-figma/",
         "price": "Gratis",
         "category": "Design",
@@ -150,6 +164,7 @@
     {
         "id": 1754560,
         "title": "Adobe XD: Aprende a crear prototipos profesionales desde 0",
+        "headline": "El curso en el que aprenderas a diseñar prototipos profesionales de sitios web, applicaciones moviles y software.",
         "url": "https://www.udemy.com/course/curso-adobe-xd/",
         "price": "Gratis",
         "category": "Design",
@@ -160,6 +175,7 @@
     {
         "id": 749262,
         "title": "Curso de maquetación web de lo básico a lo avanzado",
+        "headline": "Aprende a maquetar sitios web de una manera fácil y efectiva en los lenguajes HTML5 y CSS3",
         "url": "https://www.udemy.com/course/curso-de-diseno-y-maquetacion-web-de-cero-a-experto/",
         "price": "Gratis",
         "category": "Design",
@@ -170,6 +186,7 @@
     {
         "id": 2039484,
         "title": "Blender la guía completa para novatos",
+        "headline": "Aprende a realizar proyectos en Blender sin conocimientos previos y mejora tus habilidades en producción 3D",
         "url": "https://www.udemy.com/course/blender-la-guia-completa-para-novatos/",
         "price": "Gratis",
         "category": "Design",
@@ -181,6 +198,7 @@
     {
         "id": 5685844,
         "title": "La Magia de Canva - Estudio Mágico",
+        "headline": "Descubre el potencial de la Inteligencia Artificial para tus diseños",
         "url": "https://www.udemy.com/course/la-magia-de-canva-estudio-magico/",
         "price": "Gratis",
         "category": "Design",
@@ -192,6 +210,7 @@
     {
         "id": 6106841,
         "title": "Crea una página web desde cero con HTML y CSS",
+        "headline": "Utiliza HTML y CSS moderno para crear una página web desde cero.",
         "url": "https://www.udemy.com/course/crea-una-pagina-web-html-y-css/",
         "price": "Gratis",
         "category": "Design",
@@ -202,6 +221,7 @@
     {
         "id": 2406144,
         "title": "Crea una página web MODERNA con HTML CSS y JS",
+        "headline": "Aprende a crear una página web desde 0 la página web está hecha con HTML, CSS y JS [Javascript] | Crea sitios web",
         "url": "https://www.udemy.com/course/crea-tu-primera-pagina-web/",
         "price": "Gratis",
         "category": "Design",
@@ -212,6 +232,7 @@
     {
         "id": 2259510,
         "title": "Visual Studio Code: Mejora tu velocidad para codificar",
+        "headline": "Trucos que te harán disfrutar más tu experiencia como desarrollador y trabajar a mayor velocidad en VSCode",
         "url": "https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/",
         "price": "Gratis",
         "category": "Development",
@@ -223,6 +244,7 @@
     {
         "id": 5973286,
         "title": "Shadcn/ui: Componentes accesibles y personalizables",
+        "headline": "Alertas, Diálogos, Botones, Dashboard administrativo, tarjetas, anatomía ,TypeScript, Tailwind, NextJS",
         "url": "https://www.udemy.com/course/shadcnui-components/",
         "price": "Gratis",
         "category": "Development",
@@ -234,6 +256,7 @@
     {
         "id": 2426324,
         "title": "Aprende SQL desde CERO hasta AVANZADO como un PROFESIONAL.",
+        "headline": "Aprende SQL con la Base de Datos mas utilizada en el mundo MYSQL, desde CERO hasta AVANZADO. El curso mas completo.",
         "url": "https://www.udemy.com/course/aprende-sql-desde-cero-hasta-avanzado-como-un-profesional/",
         "price": "Gratis",
         "category": "Development",
@@ -244,6 +267,7 @@
     {
         "id": 4423594,
         "title": "Curso de Python 3.12: Aprende Desde Cero a Pro 2024 Parte 1",
+        "headline": "Aprende Como un Profesional Python 3.12.1 el Lenguaje de Programación Más Demandado del Mundo",
         "url": "https://www.udemy.com/course/curso-de-python-310-aprende-desde-cero-a-pro-2022-parte-1/",
         "price": "Gratis",
         "category": "Development",
@@ -254,6 +278,7 @@
     {
         "id": 649070,
         "title": "Lógica Programación: Aprende Programar en Cualquier Lenguaje",
+        "headline": "Un curso muy básico para aprender a programar en cualquier lenguaje: Java, C++, JavaScript, Python, SQL, HTML, Swift etc",
         "url": "https://www.udemy.com/course/logica-programacion-aprende-programar-en-cualquier-lenguaje/",
         "price": "Gratis",
         "category": "Development",
@@ -264,6 +289,7 @@
     {
         "id": 2573656,
         "title": "Introducción a la Programación con Python",
+        "headline": "¿Deseas aprender Programación para obtener un mejor trabajo o crear una idea? ¡Este curso es para ti!",
         "url": "https://www.udemy.com/course/introduccion-a-la-programacion-con-python-juan-de-la-torre/",
         "price": "Gratis",
         "category": "Development",
@@ -274,6 +300,7 @@
     {
         "id": 2310326,
         "title": "Curso de C# .NET desde cero hasta lo mas avanzado full stack",
+        "headline": "Curso de C# .NET desde cero para el desarrollo de diversas aplicaciones multiplataforma",
         "url": "https://www.udemy.com/course/curso-de-c-sharp-net-core-desde-cero/",
         "price": "Gratis",
         "category": "Development",
@@ -284,6 +311,7 @@
     {
         "id": 4423752,
         "title": "Curso de Python 3.12: Aprende Desde Cero a Pro 2024 Parte 2",
+        "headline": "Aprende Como un Profesional Python 3.12.1 el Lenguaje de Programación Más Demandado del Mundo",
         "url": "https://www.udemy.com/course/curso-de-python-310-aprende-desde-cero-a-pro-2022-parte-2/",
         "price": "Gratis",
         "category": "Development",
@@ -294,6 +322,7 @@
     {
         "id": 1311964,
         "title": "Angular: Convierte cualquier template HTML en una WebAPP",
+        "headline": "¿Quieres aprender a crear un sitio web dinámico con Angular, Firebase y GitHub Pages? Estas en el lugar correcto.",
         "url": "https://www.udemy.com/course/html-hacia-angular/",
         "price": "Gratis",
         "category": "Development",
@@ -304,6 +333,7 @@
     {
         "id": 1669982,
         "title": "Fundamentos de Programación Web para Principiantes",
+        "headline": "Introducción a la  Programación Web, Lenguajes, Frameworks, BD, Herramientas y como convertirte en Desarrollador Web",
         "url": "https://www.udemy.com/course/fundamentos-de-programacion-web-para-principiantes/",
         "price": "Gratis",
         "category": "Development",
@@ -314,6 +344,7 @@
     {
         "id": 4275378,
         "title": "Nutrición: Plan DETOX DE AZÚCAR: limpia y sana tu cuerpo",
+        "headline": "Restablece tu paladar y estabiliza tu azúcar en la sangre para reducir la inflamación en tu cuerpo.",
         "url": "https://www.udemy.com/course/plan-detox-de-azucar/",
         "price": "Gratis",
         "category": "Health and Fitness",
@@ -324,6 +355,7 @@
     {
         "id": 4470846,
         "title": "Diplomado en Manejo Holístico  Ansiedad y  Depresión",
+        "headline": "Diplomado Internacional Holístico para el Manejo de la Ansiedad y la Depresión con Certificado",
         "url": "https://www.udemy.com/course/curso-holistico-para-el-manejo-de-la-ansiedad-y-la-depresion/",
         "price": "Gratis",
         "category": "Health and Fitness",
@@ -334,6 +366,7 @@
     {
         "id": 5850942,
         "title": "Curso  de Hipertrofia Muscular Científica",
+        "headline": "Principios Clave de Entrenamiento para la Hipertrofia Efectiva",
         "url": "https://www.udemy.com/course/curso-avanzado-de-hipertrofia-muscular-cientifica/",
         "price": "Gratis",
         "category": "Health and Fitness",
@@ -344,6 +377,7 @@
     {
         "id": 6116975,
         "title": "Aprende Medicina Tradicional China desde cero",
+        "headline": "Los conceptos fundamentales y las bases para comprender el funcionamiento de la MTC",
         "url": "https://www.udemy.com/course/aprende-medicina-tradicional-china/",
         "price": "Gratis",
         "category": "Health and Fitness",
@@ -354,6 +388,7 @@
     {
         "id": 5721198,
         "title": "Aprendiendo a Meditar con Tati Romero",
+        "headline": "10 Lecciones Básicas para introducirte a este maravilloso mundo.",
         "url": "https://www.udemy.com/course/aprende-a-meditar/",
         "price": "Gratis",
         "category": "Health and Fitness",
@@ -364,6 +399,7 @@
     {
         "id": 2348096,
         "title": "Curso Base sobre Nutrición y Entrenamiento",
+        "headline": "Información esencial sobre nutrición",
         "url": "https://www.udemy.com/course/nutricion-y-entrenamiento-para-conseguir-tus-objetivos/",
         "price": "Gratis",
         "category": "Health and Fitness",
@@ -374,6 +410,7 @@
     {
         "id": 4677420,
         "title": "Iniciación a dietas para perder peso y ganar músculos",
+        "headline": "Te iniciaras en la creación de dietas para perder grasa y ganar músculos",
         "url": "https://www.udemy.com/course/iniciacion-a-dietas-para-perder-peso-y-ganar-musculos/",
         "price": "Gratis",
         "category": "Health and Fitness",
@@ -384,6 +421,7 @@
     {
         "id": 5239422,
         "title": "BJJ | Drills para Jiu Jitsu Brasileño en español",
+        "headline": "Drills de BJJ en solitario y en pareja para mejorar tu movilidad",
         "url": "https://www.udemy.com/course/bjj-drills-jiu-jitsu/",
         "price": "Gratis",
         "category": "Health and Fitness",
@@ -395,6 +433,7 @@
     {
         "id": 3925480,
         "title": "Curso de YOGA para principiantes GRATIS",
+        "headline": "Curso de yoga iniciación, curso GRATUITO para todas las personas que quierán empezar en el mundo del yoga.",
         "url": "https://www.udemy.com/course/curso-de-yoga-para-principiantes-gratis/",
         "price": "Gratis",
         "category": "Health and Fitness",
@@ -405,6 +444,7 @@
     {
         "id": 5850988,
         "title": "\"Guía Muscular: Estrategias, Fundamentos y Práctica\"",
+        "headline": "\"Principios Clave del Entrenamiento Muscular: Teoría y Práctica\"",
         "url": "https://www.udemy.com/course/guia-muscular-estrategias-fundamentos-y-practica/",
         "price": "Gratis",
         "category": "Health and Fitness",
@@ -415,6 +455,7 @@
     {
         "id": 5691868,
         "title": "Hacking Ético: Espionaje de Mensajes en Whatsapp y Apps",
+        "headline": "Desenmascarando el Espionaje Digital: Descubre los Fallos de Seguridad en Aplicaciones de la Mano de Expertos",
         "url": "https://www.udemy.com/course/hacking-etico-el-espionaje-de-mensajes-en-whatsapp-y-apps/",
         "price": "Gratis",
         "category": "IT and Software",
@@ -425,6 +466,7 @@
     {
         "id": 1152156,
         "title": "Bash - Intérprete de Comandos de Linux. Aprende desde cero",
+        "headline": "Aprende cómo funciona el intérprete de comandos bash explicado paso a paso y con ejemplos.",
         "url": "https://www.udemy.com/course/shell-interprete-de-comandos-de-linux-aprende-desde-cero/",
         "price": "Gratis",
         "category": "IT and Software",
@@ -435,6 +477,7 @@
     {
         "id": 5255168,
         "title": "Curso de Hacking Ético y Ciberseguridad para Principiantes",
+        "headline": "Aprende lo basico sobre el Hacking Ético. Los ataques mas comunes de los Hackers. Aprende Ciberseguridad y Hacking Etico",
         "url": "https://www.udemy.com/course/curso-de-hacking-etico-y-ciberseguridad-para-principiantes/",
         "price": "Gratis",
         "category": "IT and Software",
@@ -445,6 +488,7 @@
     {
         "id": 3527850,
         "title": "Curso de Inteligencia Artificial con Python [GRATIS ONLINE]",
+        "headline": "Casos prácticos y fáciles de hacer.",
         "url": "https://www.udemy.com/course/inteligencia-artificial-gratis-python/",
         "price": "Gratis",
         "category": "IT and Software",
@@ -455,6 +499,7 @@
     {
         "id": 5969034,
         "title": "Hacking Ético Malware: Troyanos, SPYware, Ransomware y Más",
+        "headline": "Aprende Como Funcionan Algunos De Los Malwares Más Infames: Troyanos, SPYware, Ransomware, RATs y Mucho Más.",
         "url": "https://www.udemy.com/course/hacking-etico-malware-troyanos-spyware-ransomware-y-mas/",
         "price": "Gratis",
         "category": "IT and Software",
@@ -465,6 +510,7 @@
     {
         "id": 5228474,
         "title": "Curso de Hacking Etico: El Ransomware en Android y Windows",
+        "headline": "Aprende a Ejecutar Ataques con Ransomware y como Mitigarlos, y Comprende cómo Funciona el Malware más Letal del Mundo",
         "url": "https://www.udemy.com/course/curso-de-hacking-etico-el-ransomware-en-android-y-windows/",
         "price": "Gratis",
         "category": "IT and Software",
@@ -475,6 +521,7 @@
     {
         "id": 3510820,
         "title": "Kali Linux. Instalación, comandos y practica de herramientas",
+        "headline": "Aprende sobre la herramienta por excelencia en seguridad, Kali Linux, con su Suite de herramientas totalmente Gratuitas.",
         "url": "https://www.udemy.com/course/kali-linux-herramientas-comandos-practica-alvaro-chirou/",
         "price": "Gratis",
         "category": "IT and Software",
@@ -487,6 +534,7 @@
     {
         "id": 2601946,
         "title": "Curso introductorio de Power BI",
+        "headline": "Conceptos básicos de Power BI Desktop, Power Query y Power BI Online previos a un curso de pago o formación avanzada.",
         "url": "https://www.udemy.com/course/curso_introductorio_de_power_bi/",
         "price": "Gratis",
         "category": "IT and Software",
@@ -497,6 +545,7 @@
     {
         "id": 4577996,
         "title": "Hacking Ético: Pentesting Basico en Android Con Metasploit",
+        "headline": "Aprende los Conceptos Básicos del Pentesting y Hacking en  Sistemas Android Con Metasploit",
         "url": "https://www.udemy.com/course/hacking-etico-2022-pentesting-en-android-basico/",
         "price": "Gratis",
         "category": "IT and Software",
@@ -507,6 +556,7 @@
     {
         "id": 5795490,
         "title": "ChatGPT para Hacking Ético",
+        "headline": "Aprende a utilizar e implementar ChatGPT para el Hacking Ético y Ciberseguridad. Aprende Ciberseguridad y Hacking Ético",
         "url": "https://www.udemy.com/course/chatgpt-para-hacking-etico/",
         "price": "Gratis",
         "category": "IT and Software",
@@ -517,6 +567,7 @@
     {
         "id": 5011420,
         "title": "Introducción al Reiki Tradicional del sistema del Dr. Usui",
+        "headline": "Curso (en español) acreditado por The International Guild of Complementary Therapists (IGCT), de Inglaterra.",
         "url": "https://www.udemy.com/course/introduccion-al-reiki-tradicional-del-sistema-del-dr-usui/",
         "price": "Gratis",
         "category": "Lifestyle",
@@ -528,6 +579,7 @@
     {
         "id": 5529738,
         "title": "Curso introductorio al curso de Tarot Evolutivo/terapéutico",
+        "headline": "Si realmente quieres ser un Tarotista Evolutivo/terapéutico/cuántico avanza en esta intro.",
         "url": "https://www.udemy.com/course/curso-introductorio-al-curso-de-tarot-evolutivoterapeutico/",
         "price": "Gratis",
         "category": "Lifestyle",
@@ -538,6 +590,7 @@
     {
         "id": 5075780,
         "title": "Ejercicios Pleyadianos",
+        "headline": "Elevación de la Frecuencia Humana",
         "url": "https://www.udemy.com/course/ejercicios-pleyadianos/",
         "price": "Gratis",
         "category": "Lifestyle",
@@ -548,6 +601,7 @@
     {
         "id": 3124010,
         "title": "curso de automaquillaje para principiantes",
+        "headline": "maquillaje para principiantes",
         "url": "https://www.udemy.com/course/curso-de-automaquillaje-para-principiantes/",
         "price": "Gratis",
         "category": "Lifestyle",
@@ -558,6 +612,7 @@
     {
         "id": 5028210,
         "title": "Tarot Marsella Lemat gratuito",
+        "headline": "22 arcanos y 4 ases. por Daniel Rodes y Encarna Sanchez de la escuela internacional Lemat.",
         "url": "https://www.udemy.com/course/tarot-marsella-lemat-gratuito/",
         "price": "Gratis",
         "category": "Lifestyle",
@@ -568,6 +623,7 @@
     {
         "id": 3220547,
         "title": "Aprende a Leer las Cartas del Tarot",
+        "headline": "Cómo echar las cartas del tarot e interpretarlas",
         "url": "https://www.udemy.com/course/aprende-a-leer-las-cartas-del-tarot/",
         "price": "Gratis",
         "category": "Lifestyle",
@@ -578,6 +634,7 @@
     {
         "id": 2277345,
         "title": "Escritura creativa desde cero.",
+        "headline": "Herramientas básicas para comenzar a escribir literatura de ficción. Poesía, cuento y novela. Corrección de estilo.",
         "url": "https://www.udemy.com/course/quiero-escribir-y-no-se/",
         "price": "Gratis",
         "category": "Lifestyle",
@@ -588,6 +645,7 @@
     {
         "id": 4787536,
         "title": "Iniciación a los amigurumis",
+        "headline": "Aprende a tejer tu mundo",
         "url": "https://www.udemy.com/course/iniciacion-a-los-amigurumis/",
         "price": "Gratis",
         "category": "Lifestyle",
@@ -598,6 +656,7 @@
     {
         "id": 2315070,
         "title": "Escritura creativa - Problemas frecuentes y estilo.",
+        "headline": "Herramientas para la corrección y enriquecimiento del texto.",
         "url": "https://www.udemy.com/course/escritura-creativa2/",
         "price": "Gratis",
         "category": "Lifestyle",
@@ -608,6 +667,7 @@
     {
         "id": 5054410,
         "title": "Universo Sopas",
+        "headline": "Un Curso entero dedicado al mundo apasionante e infinito de la Sopa. Aprende todo sobre el mundo de las Sopas!",
         "url": "https://www.udemy.com/course/universo-sopas/",
         "price": "Gratis",
         "category": "Lifestyle",
@@ -618,6 +678,7 @@
     {
         "id": 5592250,
         "title": "Marketing Digital: Sistema para Crecer Negocios + ChatGPT",
+        "headline": "Maximizá tu crecimiento con Marketing Digital con Estrategias de contenido, Diseño, Inteligencia Artificial, Publicidad.",
         "url": "https://www.udemy.com/course/marketing-digital-sistema-para-crecer-negocios-chatgpt/",
         "price": "Gratis",
         "category": "Marketing",
@@ -628,6 +689,7 @@
     {
         "id": 2632594,
         "title": "Google Ads para Principiantes (Adwords)",
+        "headline": "Cree anuncios con Google Ads y promocione su negocio, productos y servicios en Google y YouTube.",
         "url": "https://www.udemy.com/course/google-ads-para-principiantes/",
         "price": "Gratis",
         "category": "Marketing",
@@ -639,6 +701,7 @@
     {
         "id": 2422440,
         "title": "Automatización de Marketing: Menos Trabajo + Ventas",
+        "headline": "Incrementa tu alcance, segmenta, personaliza y mejora la relación con miles de clientes al mismo tiempo",
         "url": "https://www.udemy.com/course/automatizacion-de-marketing/",
         "price": "Gratis",
         "category": "Marketing",
@@ -649,6 +712,7 @@
     {
         "id": 2707538,
         "title": "Entrenamiento Gratuito de Negocios por Instagram",
+        "headline": "Mercadeo Digital",
         "url": "https://www.udemy.com/course/entrenamiento-gratuito-de-instagram-samurais-digitales/",
         "price": "Gratis",
         "category": "Marketing",
@@ -659,6 +723,7 @@
     {
         "id": 6119145,
         "title": "Gestiona tus Redes Sociales con Meta Business Suite",
+        "headline": "Aprende a Gestionar todas las herramientas para programar contenido y trabajar con la Suite Gratuita de Meta",
         "url": "https://www.udemy.com/course/meta-business-suite-para-instagram-y-facebook/",
         "price": "Gratis",
         "category": "Marketing",
@@ -669,6 +734,7 @@
     {
         "id": 4468626,
         "title": "Guía definitiva para crecer en Instagram",
+        "headline": "Aprenderás los 5 pasos fundamentales para crecer en Instagram. Las estrategias más avanzadas de Marketing Digital.",
         "url": "https://www.udemy.com/course/guia-definitiva-para-crecer-en-instagram/",
         "price": "Gratis",
         "category": "Marketing",
@@ -679,6 +745,7 @@
     {
         "id": 2579252,
         "title": "Curso Basico GRATIS: CHATBOT para VENDER en WHATSAPP",
+        "headline": "El futuro de la ventas",
         "url": "https://www.udemy.com/course/chatbot-whatsapp/",
         "price": "Gratis",
         "category": "Marketing",
@@ -689,6 +756,7 @@
     {
         "id": 5938154,
         "title": "Planifica el contenido TRIMESTRAL de Tu NEGOCIO",
+        "headline": "Aplica esta estrategia para poner foco, orden y planificación al contenido de las redes sociales de tu negocio",
         "url": "https://www.udemy.com/course/planifica-el-contenido-trimestral-de-tu-negocio/",
         "price": "Gratis",
         "category": "Marketing",
@@ -699,6 +767,7 @@
     {
         "id": 6132759,
         "title": "Tu Despegue: Inicia tu Viaje como  Community Manager",
+        "headline": "Aprende a gestionar redes sociales de manera profesional",
         "url": "https://www.udemy.com/course/tu-viaje-como-community-manager/",
         "price": "Gratis",
         "category": "Marketing",
@@ -709,6 +778,7 @@
     {
         "id": 1493134,
         "title": "Neuromarketing Aplicado al Marketing Digital",
+        "headline": "Revolucionando el Marketing Digital a partir de la Neurociencia",
         "url": "https://www.udemy.com/course/neuromarketing-aplicado-al-marketing-digital/",
         "price": "Gratis",
         "category": "Marketing",
@@ -719,6 +789,7 @@
     {
         "id": 3326320,
         "title": "Curso de teoría musical - nivel básico",
+        "headline": "Aprende armonía y teoría musical de una manera clara y sencilla",
         "url": "https://www.udemy.com/course/curso-de-teoria-musical-nivel-basico/",
         "price": "Gratis",
         "category": "Music",
@@ -729,6 +800,7 @@
     {
         "id": 2214366,
         "title": "14 Estudios diarios para guitarra",
+        "headline": "Mejora tu técnica dedicando poco tiempo",
         "url": "https://www.udemy.com/course/14-estudios-para-guitarra/",
         "price": "Gratis",
         "category": "Music",
@@ -739,6 +811,7 @@
     {
         "id": 4199238,
         "title": "Curso de Guitarra Basica.",
+        "headline": "Aprendamos desde cero.",
         "url": "https://www.udemy.com/course/curso-de-guitarra-basica/",
         "price": "Gratis",
         "category": "Music",
@@ -749,6 +822,7 @@
     {
         "id": 3239341,
         "title": "Introducción a la Armonía",
+        "headline": "Aprende la matemática de la Música",
         "url": "https://www.udemy.com/course/introduccion-a-la-armonia/",
         "price": "Gratis",
         "category": "Music",
@@ -759,6 +833,7 @@
     {
         "id": 4493392,
         "title": "Mezcla y Masterización con FL Studio",
+        "headline": "Aprende a masterizar con el secuenciador más básico y funcional que existe.",
         "url": "https://www.udemy.com/course/mezcla-y-masterizacion-con-fl-studio/",
         "price": "Gratis",
         "category": "Music",
@@ -769,6 +844,7 @@
     {
         "id": 6257017,
         "title": "Conceptos Básicos de la Mezcla Musical - EQ y Compresión",
+        "headline": "Aprende lo Esencial de EQ y Compresión en esta Guía de Producción Musical para Mejorar tu Mezcla de Audio",
         "url": "https://www.udemy.com/course/eq-y-compresion/",
         "price": "Gratis",
         "category": "Music",
@@ -780,6 +856,7 @@
     {
         "id": 6229271,
         "title": "Aprende a masterizar en Logic Pro | Mastering desde cero",
+        "headline": "Curso de masterización para músicos, cantantes y artistas",
         "url": "https://www.udemy.com/course/aprende-a-masterizar-en-logic-pro-mastering-desde-cero/",
         "price": "44,99 €",
         "category": "Music",
@@ -790,6 +867,7 @@
     {
         "id": 5890726,
         "title": "Acordes y Escalas para Guitarra - El Curso Definitivo",
+        "headline": "Curso de Acordes y Escalas Completo",
         "url": "https://www.udemy.com/course/teoria-musical-para-guitarristas-el-curso-definitivo/",
         "price": "49,99 €",
         "category": "Music",
@@ -800,6 +878,7 @@
     {
         "id": 5467878,
         "title": "Técnicas de Dirección de orquesta para músicos paso a paso.",
+        "headline": "Desarrollo de una técnica de dirección personalizada. Desarrolla tu propio estilo de dirección.",
         "url": "https://www.udemy.com/course/tecnicas-de-direccion-de-orquesta-para-musicos-paso-a-paso/",
         "price": "109,99 €",
         "category": "Music",
@@ -810,6 +889,7 @@
     {
         "id": 6231985,
         "title": "Drumming and rhythm for women",
+        "headline": "connect with your inner rhythm. Embody your rhytmical essence through drumming.",
         "url": "https://www.udemy.com/course/drumming-from-the-female-body/",
         "price": "44,99 €",
         "category": "Music",
@@ -820,6 +900,7 @@
     {
         "id": 2727906,
         "title": "Super Intensivo Excel Básico a Avanzado 2019 GRATIS",
+        "headline": "Usa Excel desde 2013 a 2019 incluyendo 365 sin introducciones largas y 100% práctico",
         "url": "https://www.udemy.com/course/super-intensivo-excel-basico-a-avanzado-gratis/",
         "price": "Gratis",
         "category": "Office Productivity",
@@ -831,6 +912,7 @@
     {
         "id": 2558178,
         "title": "Curso Excel de Tablas Dinámicas - Introducción Práctica",
+        "headline": "Curso Gratis Excel de Tablas Dinámicas - Excel Básico a Avanzado - Ejercicios Prácticos con Tablas Dinámicas y Gráficos",
         "url": "https://www.udemy.com/course/curso-gratis-tutorial-microsoft-excel-tablas-dinamicas-graficos/",
         "price": "Gratis",
         "category": "Office Productivity",
@@ -842,6 +924,7 @@
     {
         "id": 42307,
         "title": "Excel Desde Cero - Nivel Básico e Intermedio (2014)",
+        "headline": "Aprende a utilizar esta gran herramienta desde cero!",
         "url": "https://www.udemy.com/course/excel-desde-cero-nivel-basico-e-intermedio/",
         "price": "Gratis",
         "category": "Office Productivity",
@@ -853,6 +936,7 @@
     {
         "id": 3187212,
         "title": "Microsoft Power BI - Introducción a Power Query Editor",
+        "headline": "Curso de Power BI - Fundamentos de Power Query y ETL. Transforma datos de Excel y visualízalos en un dashboard",
         "url": "https://www.udemy.com/course/power-bi-query-editor/",
         "price": "Gratis",
         "category": "Office Productivity",
@@ -864,6 +948,7 @@
     {
         "id": 3341578,
         "title": "Curso Gratuito SAP",
+        "headline": "Curso de Introducción a SAP.",
         "url": "https://www.udemy.com/course/curso-sap/",
         "price": "Gratis",
         "category": "Office Productivity",
@@ -874,6 +959,7 @@
     {
         "id": 6140307,
         "title": "Productividad Inteligente con IA",
+        "headline": "Aumenta tu eficiencia y automatiza tus tareas diarias utilizando Inteligencia Artificial",
         "url": "https://www.udemy.com/course/productividad-inteligente-con-ia/",
         "price": "Gratis",
         "category": "Office Productivity",
@@ -884,6 +970,7 @@
     {
         "id": 956362,
         "title": "SAP Conceptos e iniciación",
+        "headline": "SAP Conceptos e iniciación",
         "url": "https://www.udemy.com/course/sap-conceptos-e-iniciacion/",
         "price": "Gratis",
         "category": "Office Productivity",
@@ -894,6 +981,7 @@
     {
         "id": 5279656,
         "title": "Lidera a tu equipo con éxito con la ayuda de Microsoft Teams",
+        "headline": "Sácale el máximo provecho a Microsoft Teams para mejorar la comunicación y el rendimiento de tu equipo",
         "url": "https://www.udemy.com/course/curso-completo-liderazgo-gestion-equipos-microsoft-teams/",
         "price": "Gratis",
         "category": "Office Productivity",
@@ -904,6 +992,7 @@
     {
         "id": 2697902,
         "title": "Tablas dinámicas desde cero hasta análisis de datos",
+        "headline": "Domina las tablas dinámicas y análisis de datos con ejemplos que se aplican en el mundo laboral (Excel 2010 - 2019)",
         "url": "https://www.udemy.com/course/tablas-dinamicas-desde-cero-hasta-analisis-de-datos/",
         "price": "Gratis",
         "category": "Office Productivity",
@@ -914,6 +1003,7 @@
     {
         "id": 1977306,
         "title": "Con Trello organiza tus proyectos de forma profesional",
+        "headline": "Ser organizado te ayuda a lograr mas en tu vida, con Trello lleva el control de las actividades y termínalas todas.",
         "url": "https://www.udemy.com/course/trello-en-espanol/",
         "price": "Gratis",
         "category": "Office Productivity",
@@ -925,6 +1015,7 @@
     {
         "id": 5912726,
         "title": "Coaching de Vida con PNL - Cómo ser Coach con PNL",
+        "headline": "Trabaja como Coach desde cualquier lugar del mundo con las técnicas más transformadoras de la PNL aplicadas al Coaching",
         "url": "https://www.udemy.com/course/coaching-pnl-gratis/",
         "price": "Gratis",
         "category": "Personal Development",
@@ -935,6 +1026,7 @@
     {
         "id": 4516482,
         "title": "PNL y Desarrollo Personal",
+        "headline": "Descubre qué es la PNL, para qué sirve y cómo la puedes utilizar del mejor modo.",
         "url": "https://www.udemy.com/course/pnl-gratis/",
         "price": "Gratis",
         "category": "Personal Development",
@@ -945,6 +1037,7 @@
     {
         "id": 5846502,
         "title": "Kabalá: 13 Principios de Prosperidad, Abundancia y Riqueza.",
+        "headline": "Activa estos 13 Principios de Economía Espiritual según la Kabalá para la Abundancia, la Prosperidad y la Riqueza.",
         "url": "https://www.udemy.com/course/kabala-13-principios-de-prosperidad-abundancia-y-riqueza/",
         "price": "Gratis",
         "category": "Personal Development",
@@ -955,6 +1048,7 @@
     {
         "id": 4981276,
         "title": "Iniciación al Mindfulness + Primeras Prácticas en Meditación",
+        "headline": "· Descubre una Nueva Habilidad · Aprende los Pilares de la Atención Plena · Haz tus Primeras Prácticas Mindfulness ·",
         "url": "https://www.udemy.com/course/introduccion-al-mindfulness-descubre-una-nueva-habilidad/",
         "price": "Gratis",
         "category": "Personal Development",
@@ -966,6 +1060,7 @@
     {
         "id": 5848840,
         "title": "Terapeuta Reiki Usui Nivel 1 - Certificado Bioakasha",
+        "headline": "Comienza GRATIS este camino hermoso del Reiki y de forma COMPLETA todo lo que necesitas para convertirte en terapeuta.",
         "url": "https://www.udemy.com/course/terapeuta-reiki-usui-nivel-1-certificado-bioakasha/",
         "price": "Gratis",
         "category": "Personal Development",
@@ -976,6 +1071,7 @@
     {
         "id": 2439936,
         "title": "Aprende Lenguaje Corporal Para Mejorar Tu Comunicación",
+        "headline": "Es Momento De Aprender Una Parte Esencial De La Comunicación Que No Se Enseña En Los Centros Educativos.",
         "url": "https://www.udemy.com/course/aprende-lenguaje-corporal-para-mejorar-tu-comunicacion/",
         "price": "Gratis",
         "category": "Personal Development",
@@ -986,6 +1082,7 @@
     {
         "id": 1857704,
         "title": "La Ley del Propósito: una Vida con Sentido",
+        "headline": "Descubre tu Talento y Encuentra tu Propósito para una Vida Plena y Feliz - Con el Autor, N.C. Kurt.",
         "url": "https://www.udemy.com/course/la-ley-del-proposito-alinea-tus-acciones-con-tu-alma/",
         "price": "Gratis",
         "category": "Personal Development",
@@ -996,6 +1093,7 @@
     {
         "id": 5724698,
         "title": "Taller GRATUITO - Conociendo a los Pleyadianos",
+        "headline": "Abre tu corazón y tu mente para recibir a los Seres Pleyadianos",
         "url": "https://www.udemy.com/course/conoce-a-los-pleyadianos/",
         "price": "Gratis",
         "category": "Personal Development",
@@ -1006,6 +1104,7 @@
     {
         "id": 5635590,
         "title": "Curso Iniciación Hábitos para dejar la procastinación",
+        "headline": "Curso de hábitos y cambios mentales necesarios para dejar la procrastinación y mejorar la productividad.",
         "url": "https://www.udemy.com/course/curso-procastinacion-productividad/",
         "price": "Gratis",
         "category": "Personal Development",
@@ -1016,6 +1115,7 @@
     {
         "id": 6080241,
         "title": "Lo que hubiera querido saber cuando empecé a crear contenido",
+        "headline": "Más que responder a un \"cómo\", en este curso plantearemos expectativas, principios y conceptos que liberen tu potencial.",
         "url": "https://www.udemy.com/course/littleviejo/",
         "price": "Gratis",
         "category": "Personal Development",
@@ -1026,6 +1126,7 @@
     {
         "id": 5232162,
         "title": "Cómo crear un curso de Udemy (Subtitulado)",
+        "headline": "La guía oficial para planificar, producir y publicar un curso en línea de alta calidad",
         "url": "https://www.udemy.com/course/como-crear-un-curso-de-udemy-subtitulado/",
         "price": "Gratis",
         "category": "Teaching and Academics",
@@ -1036,6 +1137,7 @@
     {
         "id": 5757626,
         "title": "Curso de inglés total 2024 - Nive A1 (parte 1)",
+        "headline": "Domina el inglés desde cero hasta avanzado EN 2024, de forma fácil y rápida. Mi serie de cursos te ayudará a lograrlo",
         "url": "https://www.udemy.com/course/curso-de-ingles-total-2024-nive-a1-parte-1/",
         "price": "Gratis",
         "category": "Teaching and Academics",
@@ -1046,6 +1148,7 @@
     {
         "id": 1441058,
         "title": "Como Aprender Inglés Por Cuenta Propia Usando Internet",
+        "headline": "Aprende a sacarle el máximo provecho a Internet para aprender inglés",
         "url": "https://www.udemy.com/course/como-aprender-ingles-por-cuenta-propia-usando-internet/",
         "price": "Gratis",
         "category": "Teaching and Academics",
@@ -1056,6 +1159,7 @@
     {
         "id": 4772256,
         "title": "Inglés: Aprende inglés facilmente traduciendo - Nivel B1/B2",
+        "headline": "Educa a tu cerebro en inglés",
         "url": "https://www.udemy.com/course/ingles-aprende-ingles-facilmente-traduciendo-nivel-b1b2/",
         "price": "Gratis",
         "category": "Teaching and Academics",
@@ -1066,6 +1170,7 @@
     {
         "id": 6056153,
         "title": "Curso de Inteligencia Artificial : Generación de Prompts",
+        "headline": "Aprende a crear interacciones efectivas y optimizadas con modelos de IA",
         "url": "https://www.udemy.com/course/curso-de-inteligencia-artificial-generacion-de-prompts/",
         "price": "Gratis",
         "category": "Teaching and Academics",
@@ -1076,6 +1181,7 @@
     {
         "id": 456302,
         "title": "acoreanate curso coreano 1 online  para topik",
+        "headline": "La mejor opción para aprender coreano en el lugar y el tiempo que quieras, podrás prepararte paraTOPIK en curso coreano ",
         "url": "https://www.udemy.com/course/acoreanate-para-topik-curso-i-online-korean-class-coreano/",
         "price": "Gratis",
         "category": "Teaching and Academics",
@@ -1086,6 +1192,7 @@
     {
         "id": 2096652,
         "title": "Introducción a la Comunicación No Verbal",
+        "headline": "Comienza a descubrir las Emociones ocultas en los demás  a través de sus expresiones faciales y el lenguaje corporal.",
         "url": "https://www.udemy.com/course/introduccion-a-la-comunicacion-no-verbal/",
         "price": "Gratis",
         "category": "Teaching and Academics",
@@ -1096,6 +1203,7 @@
     {
         "id": 6125527,
         "title": "Curso Integral de eLearning",
+        "headline": "Domina el eLearning: Diseño, Desarrollo y Evaluación Efectiva",
         "url": "https://www.udemy.com/course/curso-integral-de-elearning/",
         "price": "Gratis",
         "category": "Teaching and Academics",
@@ -1106,6 +1214,7 @@
     {
         "id": 5769330,
         "title": "Curso de inglés total 2024 - Nive A1 (parte 2)",
+        "headline": "Domina el inglés desde cero hasta avanzado EN 2024, de forma fácil y rápida. Mi serie de cursos te ayudará a lograrlo",
         "url": "https://www.udemy.com/course/curso-de-ingles-total-2024-nivel-a1-parte-2/",
         "price": "Gratis",
         "category": "Teaching and Academics",
@@ -1116,6 +1225,7 @@
     {
         "id": 5804218,
         "title": "Curso de inglés total - Nive A2 a B1  (parte 1)",
+        "headline": "Domina el inglés nivel A2-B1 EN 2024, de forma fácil y rápida. Mi serie de cursos te ayudará a lograrlo rápidamente",
         "url": "https://www.udemy.com/course/curso-de-ingles-total-2024-nive-a2-b1-parte-1/",
         "price": "Gratis",
         "category": "Teaching and Academics",
