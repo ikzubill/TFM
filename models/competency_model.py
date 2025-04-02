@@ -10,9 +10,4 @@ class CompetencyModel(BaseModel):  # modelo que se espera recibir en la llamada
         competences (str): Competencias procedentes del alumno y que se deberan satisfacer con determinados cursos que se proporcionaran como resultado
     """
 
-    competences: Dict[str, int] = Field(
-        example={
-            "Escritura": 5,
-            "Lectura": 9,
-        }
-    )
+    competences: Dict[str, int] = Field(example={"Escritura": 5, "Lectura": 9})

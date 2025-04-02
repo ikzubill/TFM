@@ -55,13 +55,11 @@ def search(request: Request, udemy_model: CompetencyModel = Body(...)):
 
     try:
         validate_udemy_model(udemy_model)
-        result, search_index = udemy_rules.search_udemy(udemy_model)
+        result = udemy_rules.search_udemy_courses(udemy_model)
         if any(
             result["Recomendaciones"].values()
         ):  # si el campo recomendaciones tiene al menos un resultado, se devuelve el resultado, en caso contrario, se lanza una excepción
-            log_message = (
-                f"POST {search_url} index: {search_index} [status:{response_code}]"
-            )
+            log_message = f"POST {search_url}  [status:{response_code}]"
             logger.log_message("info", log_message)
             return result
         raise HTTPException(

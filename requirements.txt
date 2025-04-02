@@ -3,3 +3,4 @@ requests
 fastapi>=0.115.0
 uvicorn>=0.31.0
 elasticsearch_dsl==7.1
+numpy==1.26.4
